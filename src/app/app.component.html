@@ -1,31 +1,51 @@
 <!--The content below is only a placeholder and can be replaced.-->
-<div>
-  <h1>
-    Welcome to {{title}}!
-  </h1>
-  <div>
-    <h2>Shows</h2>
-    <ul class="shows">
-      <li *ngFor="let show of shows" (click)="onSelect(show)">
-        {{show.date.toISOString().slice(0,10)}}, <span class="italics" >{{show.location.venue}}</span>
-      </li>
-    </ul>
+<div class="app" >
+  <div class="header">
+    <h1>
+      Welcome to {{title}}!
+    </h1>
   </div>
-  <div *ngIf="selectedShow" >
-    <h1>{{selectedShow.location.venue}}</h1>
-    <h2>{{selectedShow.date.toISOString().slice(0,10)}}</h2>
-    <h3>Setlist</h3>
-    <ul class="setlist">
-      <li *ngFor="let song of selectedShow.setlist">
-        {{song}}
-      </li>
-    </ul>
-    <h3>Lineup</h3>
-    <ul class="lineup">
-      <li *ngFor="let musician of selectedShow.lineup">
-        {{musician}}
-      </li>
-    </ul>
-      
+  <div class="main">
+    <div class="shows-pane">
+      <div class="shows-header">
+        <h2>Shows</h2>
+        <div *ngIf="filter" >
+          <h3>Featuring: {{filter}} <span class="x" (click)="resetFilter()" >✗</span></h3>
+        </div>
+      </div>
+      <div class="shows-wrapper">
+        <ul class="shows">
+          <li *ngFor="let show of shows" (click)="onSelect(show)" class="show-li" [class.selected]="show === selectedShow" >
+            <div><span class="bold" >{{show.date}}</span> {{show.slot}}</div> 
+            <div><span class="italics">{{show.venue}}</span></div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="details">
+      <div class="details-card">
+        
+        <div *ngIf="selectedShow" >
+          <div class="details-header">
+            <h1>{{selectedShow.venue}}</h1>
+            <h1>{{selectedShow.date}}</h1>
+          </div>
+          <div class="details-body">
+            <h3>Setlist</h3>
+            <ul class="setlist">
+              <li *ngFor="let song of selectedShow.setlist" (click)="onSelectSong(song)" >
+                {{song}}
+              </li>
+            </ul>
+            <h3>Lineup</h3>
+            <ul class="lineup">
+              <li *ngFor="let musician of selectedShow.lineup" (click)="onSelectMusician(musician)" >
+                {{musician}}
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
