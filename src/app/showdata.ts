@@ -3,11 +3,11 @@ const shows = [
     "date": "1966 06 ??",
     "venue": "Fillmore Auditorium, San Francisco, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Elliot Ingber",
       "Roy Estrada",
-      "Jimmy Carl Black."
+      "Jimmy Carl Black"
     ],
     "slot": "",
     "setlist": []
@@ -16,11 +16,11 @@ const shows = [
     "date": "1966 06 24-25?",
     "venue": "Fillmore Auditorium, San Francisco, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Elliot Ingber",
       "Roy Estrada",
-      "Jimmy Carl Black."
+      "Jimmy Carl Black"
     ],
     "slot": "",
     "setlist": [
@@ -34,11 +34,11 @@ const shows = [
     "date": "1966 06 25",
     "venue": "Fillmore Auditorium, San Francisco, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Elliot Ingber",
       "Roy Estrada",
-      "Jimmy Carl Black."
+      "Jimmy Carl Black"
     ],
     "slot": "",
     "setlist": []
@@ -47,11 +47,11 @@ const shows = [
     "date": "1967 05 30",
     "venue": "Garrick Theater, NYC, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Elliot Ingber",
       "Roy Estrada",
-      "Jimmy Carl Black."
+      "Jimmy Carl Black"
     ],
     "slot": "",
     "setlist": []
@@ -60,7 +60,7 @@ const shows = [
     "date": "1967 09 30",
     "venue": "Konserthuset, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -68,7 +68,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -90,7 +90,7 @@ const shows = [
     "date": "1967 10 01",
     "venue": "Falkoner Teatret, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -98,7 +98,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -118,7 +118,7 @@ const shows = [
     "date": "1967 10 02",
     "venue": "Olympen, Lund, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -126,7 +126,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -142,7 +142,7 @@ const shows = [
     "date": "1967 10 10",
     "venue": "The Bitter End, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -150,7 +150,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -161,7 +161,7 @@ const shows = [
     "date": "1967 12 03",
     "venue": "Fifth Dimension, Ann Arbor, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -169,7 +169,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -184,7 +184,7 @@ const shows = [
     "date": "1968 ?? ??",
     "venue": "Central Park?, New York?",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -192,7 +192,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": []
@@ -201,7 +201,7 @@ const shows = [
     "date": "1968 01 ??",
     "venue": "Family Dog, Denver, CO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -209,7 +209,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": []
@@ -218,7 +218,7 @@ const shows = [
     "date": "1968 02 ??",
     "venue": "Family Dog, Denver, CO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -226,7 +226,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": []
@@ -235,7 +235,7 @@ const shows = [
     "date": "1968 03 ??",
     "venue": "Fillmore West, San Francisco, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -243,7 +243,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": []
@@ -252,7 +252,7 @@ const shows = [
     "date": "1968 03 ??",
     "venue": "Thee Image, Miami, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -260,7 +260,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": []
@@ -269,7 +269,7 @@ const shows = [
     "date": "1968 04 10",
     "venue": "Grande Ballroom, Detroit, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -277,7 +277,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": []
@@ -286,7 +286,7 @@ const shows = [
     "date": "1968 04 20",
     "venue": "Fillmore East, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -294,7 +294,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "early show",
     "setlist": [
@@ -317,7 +317,7 @@ const shows = [
     "date": "1968 04 20",
     "venue": "Fillmore East, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -325,7 +325,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "late show",
     "setlist": [
@@ -354,7 +354,7 @@ const shows = [
     "date": "1968 04 28",
     "venue": "Grande Ballroom, Detroit, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -362,7 +362,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "early show",
     "setlist": [
@@ -379,7 +379,7 @@ const shows = [
     "date": "1968 05 03",
     "venue": "Family Dog, Denver, CO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -387,7 +387,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -413,7 +413,7 @@ const shows = [
     "date": "1968 06 25",
     "venue": "Steve Allen TV Show, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -421,7 +421,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -435,7 +435,7 @@ const shows = [
     "date": "1968 07 ??",
     "venue": "The Ark, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -443,7 +443,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": []
@@ -452,7 +452,7 @@ const shows = [
     "date": "1968 08 03",
     "venue": "Wollman Rink, Central Park, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -460,7 +460,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "early show ?",
     "setlist": [
@@ -483,7 +483,7 @@ const shows = [
     "date": "1968 08 03",
     "venue": "Wollman Rink, Central Park, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -491,7 +491,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "late show ?",
     "setlist": [
@@ -508,7 +508,7 @@ const shows = [
     "date": "1968 08 25",
     "venue": "Kerrisdale Arena, Vancouver, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -516,7 +516,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": []
@@ -525,14 +525,14 @@ const shows = [
     "date": "1968 09 28",
     "venue": "Grugahalle, Essen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -543,14 +543,14 @@ const shows = [
     "date": "1968 10 ??",
     "venue": "Worcester, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": []
@@ -559,14 +559,14 @@ const shows = [
     "date": "1968 10 01",
     "venue": "Konserthuset, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": []
@@ -575,14 +575,14 @@ const shows = [
     "date": "1968 10 03",
     "venue": "Tivoli Gardens, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -609,14 +609,14 @@ const shows = [
     "date": "1968 10 06",
     "venue": "The Beat Club, Bremen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -637,14 +637,14 @@ const shows = [
     "date": "1968 10 20",
     "venue": "Concertgebouw, Amsterdam, Netherlands",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -663,14 +663,14 @@ const shows = [
     "date": "1968 10 23?",
     "venue": "BBC Studios, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -684,14 +684,14 @@ const shows = [
     "date": "1968 10 25",
     "venue": "Royal Festival Hall, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "early show",
     "setlist": [
@@ -713,14 +713,14 @@ const shows = [
     "date": "1968 10 25",
     "venue": "Royal Festival Hall, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "late show",
     "setlist": [
@@ -733,14 +733,14 @@ const shows = [
     "date": "1968 10 ??",
     "venue": "TV Studio, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -752,14 +752,14 @@ const shows = [
     "date": "1968 10 26",
     "venue": "Olympia, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -774,7 +774,7 @@ const shows = [
     "date": "1968 11 08",
     "venue": "Titan Gymnasium, Fullerton, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -782,8 +782,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -800,7 +799,7 @@ const shows = [
     "date": "1969 02 ??",
     "venue": "The Ballroom, Stratford, CT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -808,8 +807,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": []
@@ -818,7 +816,7 @@ const shows = [
     "date": "1969 02 08",
     "venue": "Thee Image, Miami Beach, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -826,8 +824,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -849,7 +846,7 @@ const shows = [
     "date": "1969 02 21",
     "venue": "Fillmore East, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -857,8 +854,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "early show",
     "setlist": [
@@ -884,7 +880,7 @@ const shows = [
     "date": "1969 02 21",
     "venue": "Fillmore East, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -892,8 +888,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "late show",
     "setlist": [
@@ -916,7 +911,7 @@ const shows = [
     "date": "1969 02 23",
     "venue": "Rockpile, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -924,8 +919,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "early show",
     "setlist": [
@@ -946,7 +940,7 @@ const shows = [
     "date": "1969 02 23",
     "venue": "Rockpile, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -954,8 +948,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "late show",
     "setlist": [
@@ -976,7 +969,7 @@ const shows = [
     "date": "1969 02 or 03",
     "venue": "Convocation Hall, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -984,8 +977,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": []
@@ -994,7 +986,7 @@ const shows = [
     "date": "1969 03 ??",
     "venue": "Thee Image, Miami, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -1002,8 +994,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": []
@@ -1012,7 +1003,7 @@ const shows = [
     "date": "1969 03 ??",
     "venue": "Hartford Ballroom, Hartford, CT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -1020,8 +1011,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": []
@@ -1030,7 +1020,7 @@ const shows = [
     "date": "1969 04 25",
     "venue": "Queens College, NYC, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -1038,8 +1028,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -1065,7 +1054,7 @@ const shows = [
     "date": "1969 05 17",
     "venue": "Ford Auditorium, Detroit, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -1073,8 +1062,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -1103,7 +1091,7 @@ const shows = [
     "date": "1969 05 19",
     "venue": "Massey Hall, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -1111,8 +1099,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": []
@@ -1121,7 +1108,7 @@ const shows = [
     "date": "1969 05 19",
     "venue": "Massey Hall, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -1129,8 +1116,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -1151,7 +1137,7 @@ const shows = [
     "date": "1969 05 23",
     "venue": "Lawrence University Chapel, Appleton, WI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -1159,8 +1145,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -1189,7 +1174,7 @@ const shows = [
     "date": "1969 05 24",
     "venue": "Rockpile, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -1197,8 +1182,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "early show",
     "setlist": [
@@ -1222,7 +1206,7 @@ const shows = [
     "date": "1969 05 24",
     "venue": "Rockpile, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Lowell George",
       "Roy Estrada",
       "Jimmy Carl Black",
@@ -1230,8 +1214,7 @@ const shows = [
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "late show",
     "setlist": [
@@ -1259,15 +1242,14 @@ const shows = [
     "date": "1969 06 05",
     "venue": "Guild Hall, Portsmouth, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -1280,15 +1262,14 @@ const shows = [
     "date": "1969 06 06",
     "venue": "Royal Albert Hall, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -1323,15 +1304,14 @@ const shows = [
     "date": "1969 06 13",
     "venue": "Fillmore East, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "early show",
     "setlist": [
@@ -1349,15 +1329,14 @@ const shows = [
     "date": "1969 06 14",
     "venue": "Fillmore East, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "early show",
     "setlist": [
@@ -1374,15 +1353,14 @@ const shows = [
     "date": "1969 06 27",
     "venue": "Denver Pop Festival, Mile High Stadium, Denver, CO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -1400,15 +1378,14 @@ const shows = [
     "date": "1969 07 05",
     "venue": "Newport Jazz Festival Field, Newport, RI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -1427,15 +1404,14 @@ const shows = [
     "date": "1969 07 08",
     "venue": "The Ark, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -1453,15 +1429,14 @@ const shows = [
     "date": "1969 08 ??",
     "venue": "Montreal, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": []
@@ -1470,15 +1445,14 @@ const shows = [
     "date": "1969 08 02",
     "venue": "Wollman Rink, Central Park, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -1492,15 +1466,14 @@ const shows = [
     "date": "1969 08 06",
     "venue": "Ravinia Outdoor Music Center, Highland Park, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -1513,15 +1486,14 @@ const shows = [
     "date": "1969 08 08",
     "venue": "Carousel Theatre, Framingham, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -1535,15 +1507,14 @@ const shows = [
     "date": "1969 08 10",
     "venue": "Musicarnival, Warrensville Heights, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Roy Estrada",
       "Jimmy Carl Black",
       "Art Tripp",
       "Ian Underwood",
       "Don Preston",
       "Bunk Gardner",
-      "Motorhead Sherwood",
-      "Buzz Gardner."
+      "Motorhead Sherwood",      "Buzz Gardner"
     ],
     "slot": "",
     "setlist": [
@@ -1565,14 +1536,14 @@ const shows = [
     "date": "1970 05 08",
     "venue": "Fillmore East",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Jeff Simmons",
       "Aynsley Dunbar",
       "Billy Mundi",
       "Ian Underwood",
       "Don Preston",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": []
@@ -1581,14 +1552,14 @@ const shows = [
     "date": "1970 05 08 or 09",
     "venue": "Fillmore East",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Jeff Simmons",
       "Aynsley Dunbar",
       "Billy Mundi",
       "Ian Underwood",
       "Don Preston",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -1613,14 +1584,14 @@ const shows = [
     "date": "1970 05 09",
     "venue": "Fillmore East",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Jeff Simmons",
       "Aynsley Dunbar",
       "Billy Mundi",
       "Ian Underwood",
       "Don Preston",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -1643,14 +1614,14 @@ const shows = [
     "date": "1970 05 11",
     "venue": "Fillmore East",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Jeff Simmons",
       "Aynsley Dunbar",
       "Billy Mundi",
       "Ian Underwood",
       "Don Preston",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": []
@@ -1659,14 +1630,14 @@ const shows = [
     "date": "1970 05 15",
     "venue": "\"Contempo '70\"",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray Collins",
       "Jeff Simmons",
       "Aynsley Dunbar",
       "Billy Mundi",
       "Ian Underwood",
       "Don Preston",
-      "Motorhead Sherwood."
+      "Motorhead Sherwood"
     ],
     "slot": "",
     "setlist": [
@@ -1702,13 +1673,13 @@ const shows = [
     "date": "1970 06 12",
     "venue": "Municipal Auditorium, San Antonio, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -1729,13 +1700,13 @@ const shows = [
     "date": "1970 06 18",
     "venue": "VPRO TV, Uddel, Netherlands",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -1756,13 +1727,13 @@ const shows = [
     "date": "1970 06 24",
     "venue": "Fillmore West, San Francisco, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": []
@@ -1771,13 +1742,13 @@ const shows = [
     "date": "1970 06 28",
     "venue": "Bath Festival of Blues and Progressive Music, Shepton Mallet, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -1801,13 +1772,13 @@ const shows = [
     "date": "1970 07 05",
     "venue": "Tyrone Guthrie Theater, Minneapolis, MN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "early show",
     "setlist": []
@@ -1816,13 +1787,13 @@ const shows = [
     "date": "1970 07 05",
     "venue": "Tyrone Guthrie Theater, Minneapolis, MN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "late show",
     "setlist": []
@@ -1831,13 +1802,13 @@ const shows = [
     "date": "1970 07 27",
     "venue": "Riviera Festival, Valbonne, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": []
@@ -1846,13 +1817,13 @@ const shows = [
     "date": "1970 08 21",
     "venue": "Civic Auditorium, Santa Monica, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -1890,13 +1861,13 @@ const shows = [
     "date": "1970 08 23",
     "venue": "Pepperland, San Rafael, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": []
@@ -1905,13 +1876,13 @@ const shows = [
     "date": "1970 09 25",
     "venue": "Pepperland, San Rafael, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -1945,13 +1916,13 @@ const shows = [
     "date": "1970 09 26",
     "venue": "Pepperland, San Rafael, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -1981,13 +1952,13 @@ const shows = [
     "date": "1970 11 05",
     "venue": "Fillmore West, San Francisco, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2010,13 +1981,13 @@ const shows = [
     "date": "1970 11 06",
     "venue": "Fillmore West, San Francisco, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2040,13 +2011,13 @@ const shows = [
     "date": "1970 11 13 and/or 14",
     "venue": "Fillmore East, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "tape 1 (much probably 1970 11 14 early)",
     "setlist": [
@@ -2073,13 +2044,13 @@ const shows = [
     "date": "1970 11 13 and/or 14",
     "venue": "Fillmore East, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "tape 2 (much probably 1970 11 14 late)",
     "setlist": [
@@ -2106,13 +2077,13 @@ const shows = [
     "date": "1970 11 15",
     "venue": "University Of Maine, Gorham, ME",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2140,13 +2111,13 @@ const shows = [
     "date": "1970 11 20",
     "venue": "Veterans Memorial Stadium, Columbus, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2179,13 +2150,13 @@ const shows = [
     "date": "1970 11 26",
     "venue": "Mountford Hall, Liverpool, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2197,13 +2168,13 @@ const shows = [
     "date": "1970 11 27",
     "venue": "Free Trade Hall, Manchester, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2229,13 +2200,13 @@ const shows = [
     "date": "1970 11 29",
     "venue": "The Coliseum, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "early show",
     "setlist": [
@@ -2268,13 +2239,13 @@ const shows = [
     "date": "1970 11 29",
     "venue": "The Coliseum, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "late show",
     "setlist": [
@@ -2304,13 +2275,13 @@ const shows = [
     "date": "1970 12 02",
     "venue": "KB-Hallen, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2335,13 +2306,13 @@ const shows = [
     "date": "1970 12 06",
     "venue": "Concertgebouw, Amsterdam, Netherlands",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "early show",
     "setlist": [
@@ -2363,13 +2334,13 @@ const shows = [
     "date": "1970 12 06",
     "venue": "Concertgebouw, Amsterdam, Netherlands",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "late show",
     "setlist": [
@@ -2396,13 +2367,13 @@ const shows = [
     "date": "1970 12 08",
     "venue": "Tonhalle, Düsseldorf, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2429,13 +2400,13 @@ const shows = [
     "date": "1970 12 12",
     "venue": "Konzerthaus, Wien, Austria",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2465,13 +2436,13 @@ const shows = [
     "date": "1970 12 15",
     "venue": "Palais Gaumont, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2498,13 +2469,13 @@ const shows = [
     "date": "1970 12 16",
     "venue": "Paleis voor Schone Kunsten, Bruxelles, Belgium",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jeff Simmons",
       "Ian Underwood",
       "George Duke",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2517,14 +2488,14 @@ const shows = [
     "date": "1971 05 18",
     "venue": "Bridges Auditorium, Pomona College, Claremont, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2549,14 +2520,14 @@ const shows = [
     "date": "1971 05 21",
     "venue": "Auditorium Theater, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": []
@@ -2565,14 +2536,14 @@ const shows = [
     "date": "1971 05 22",
     "venue": "Selby Field, Ohio Wesleyan University, Delaware, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2590,14 +2561,14 @@ const shows = [
     "date": "1971 05 23",
     "venue": "Ohio Theater, Columbus, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2618,14 +2589,14 @@ const shows = [
     "date": "1971 05 28",
     "venue": "Auditorium Theater, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2642,14 +2613,14 @@ const shows = [
     "date": "1971 06 ??",
     "venue": "Boston Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": []
@@ -2658,14 +2629,14 @@ const shows = [
     "date": "1971 07 ??",
     "venue": "El Monte Legion Stadium, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": []
@@ -2674,14 +2645,14 @@ const shows = [
     "date": "1971 06 06",
     "venue": "Fillmore East, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "late show",
     "setlist": [
@@ -2695,14 +2666,14 @@ const shows = [
     "date": "1971 08 07",
     "venue": "Pauley Pavilion, UCLA, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2733,14 +2704,14 @@ const shows = [
     "date": "1971 08 28",
     "venue": "Memorial Coliseum, Portland, OR",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2752,14 +2723,14 @@ const shows = [
     "date": "1971 10 06",
     "venue": "Boston Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2781,14 +2752,14 @@ const shows = [
     "date": "1971 10 11",
     "venue": "Carnegie Hall, New York City, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": []
@@ -2797,14 +2768,14 @@ const shows = [
     "date": "1971 10 13",
     "venue": "Massey Hall, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2824,14 +2795,14 @@ const shows = [
     "date": "1971 10 15",
     "venue": "Loew's State Theater, Providence, RI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2851,14 +2822,14 @@ const shows = [
     "date": "1971 10 16",
     "venue": "SUNY, Stony Brook, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "late show",
     "setlist": [
@@ -2880,14 +2851,14 @@ const shows = [
     "date": "1971 10 23",
     "venue": "Cowtown Ballroom, Kansas City, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "early show",
     "setlist": [
@@ -2904,14 +2875,14 @@ const shows = [
     "date": "1971 10 23",
     "venue": "Cowtown Ballroom, Kansas City, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "late show",
     "setlist": [
@@ -2931,14 +2902,14 @@ const shows = [
     "date": "1971 11 ??",
     "venue": "ABC TV, Dick Cavett Show",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": []
@@ -2947,14 +2918,14 @@ const shows = [
     "date": "1971 11 19",
     "venue": "Folkets Hus, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -2980,14 +2951,14 @@ const shows = [
     "date": "1971 11 21",
     "venue": "KB-Hallen, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "early show",
     "setlist": [
@@ -3006,14 +2977,14 @@ const shows = [
     "date": "1971 11 21",
     "venue": "KB-Hallen, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "late show",
     "setlist": [
@@ -3038,14 +3009,14 @@ const shows = [
     "date": "1971 11 23",
     "venue": "Rheinhalle, Düsseldorf, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -3071,14 +3042,14 @@ const shows = [
     "date": "1971 11 24",
     "venue": "Deutschlandhalle, Berlin, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -3110,14 +3081,14 @@ const shows = [
     "date": "1971 11 27",
     "venue": "The Ahoy, Rotterdam, Netherlands",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -3145,14 +3116,14 @@ const shows = [
     "date": "1971 11 28",
     "venue": "Jahrhunderthalle, Frankfurt, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "early show",
     "setlist": [
@@ -3175,14 +3146,14 @@ const shows = [
     "date": "1971 11 28",
     "venue": "Jahrhunderthalle, Frankfurt, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "late show",
     "setlist": [
@@ -3198,14 +3169,14 @@ const shows = [
     "date": "1971 12 04",
     "venue": "Switzerland Casino, Montreux, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -3230,14 +3201,14 @@ const shows = [
     "date": "1971 12 10",
     "venue": "Rainbow Theatre, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Mark Volman",
       "Howard Kaylan",
       "Jim Pons",
       "Ian Underwood",
       "Bob Harris #1 (until July)",
       "Don Preston (from August)",
-      "Aynsley Dunbar."
+      "Aynsley Dunbar"
     ],
     "slot": "",
     "setlist": [
@@ -3261,7 +3232,7 @@ const shows = [
     "date": "1972 09 10",
     "venue": "Hollywood Bowl, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Jerry Kessler",
       "Dave Parlato",
@@ -3280,7 +3251,7 @@ const shows = [
       "Joanne McNabb",
       "Jay Migliori",
       "Ray Reed",
-      "Charles Owens."
+      "Charles Owens"
     ],
     "slot": "",
     "setlist": [
@@ -3300,7 +3271,7 @@ const shows = [
     "date": "1972 09 15",
     "venue": "Deutschlandhalle, Berlin, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Jerry Kessler",
       "Dave Parlato",
@@ -3319,7 +3290,7 @@ const shows = [
       "Joanne McNabb",
       "Jay Migliori",
       "Ray Reed",
-      "Charles Owens."
+      "Charles Owens"
     ],
     "slot": "",
     "setlist": [
@@ -3342,7 +3313,7 @@ const shows = [
     "date": "1972 09 16",
     "venue": "Oval Cricket Ground, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Jerry Kessler",
       "Dave Parlato",
@@ -3361,7 +3332,7 @@ const shows = [
       "Joanne McNabb",
       "Jay Migliori",
       "Ray Reed",
-      "Charles Owens."
+      "Charles Owens"
     ],
     "slot": "",
     "setlist": [
@@ -3378,7 +3349,7 @@ const shows = [
     "date": "1972 09 22",
     "venue": "Felt Forum, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Jerry Kessler",
       "Dave Parlato",
@@ -3397,7 +3368,7 @@ const shows = [
       "Joanne McNabb",
       "Jay Migliori",
       "Ray Reed",
-      "Charles Owens."
+      "Charles Owens"
     ],
     "slot": "",
     "setlist": [
@@ -3414,7 +3385,7 @@ const shows = [
     "date": "1972 09 23",
     "venue": "Felt Forum, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Jerry Kessler",
       "Dave Parlato",
@@ -3433,7 +3404,7 @@ const shows = [
       "Joanne McNabb",
       "Jay Migliori",
       "Ray Reed",
-      "Charles Owens."
+      "Charles Owens"
     ],
     "slot": "",
     "setlist": [
@@ -3451,7 +3422,7 @@ const shows = [
     "date": "1972 09 24",
     "venue": "Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Jerry Kessler",
       "Dave Parlato",
@@ -3470,7 +3441,7 @@ const shows = [
       "Joanne McNabb",
       "Jay Migliori",
       "Ray Reed",
-      "Charles Owens."
+      "Charles Owens"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -3486,7 +3457,7 @@ const shows = [
     "date": "1972 09 24",
     "venue": "Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Jerry Kessler",
       "Dave Parlato",
@@ -3505,7 +3476,7 @@ const shows = [
       "Joanne McNabb",
       "Jay Migliori",
       "Ray Reed",
-      "Charles Owens."
+      "Charles Owens"
     ],
     "slot": "show",
     "setlist": [
@@ -3521,7 +3492,7 @@ const shows = [
     "date": "1972 10 28",
     "venue": "Syracuse, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3530,7 +3501,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "",
     "setlist": []
@@ -3539,7 +3510,7 @@ const shows = [
     "date": "1972 10 29",
     "venue": "Men's Gym, Harpur College, Binghamton, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3548,7 +3519,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "",
     "setlist": [
@@ -3568,7 +3539,7 @@ const shows = [
     "date": "1972 10 31",
     "venue": "Capitol Theatre, Passaic, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3577,7 +3548,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "early show",
     "setlist": [
@@ -3595,7 +3566,7 @@ const shows = [
     "date": "1972 10 31",
     "venue": "Capitol Theatre, Passaic, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3604,7 +3575,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "late show",
     "setlist": [
@@ -3625,7 +3596,7 @@ const shows = [
     "date": "1972 11 07",
     "venue": "Long Island Arena, Commack, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3634,7 +3605,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "",
     "setlist": [
@@ -3652,7 +3623,7 @@ const shows = [
     "date": "1972 11 10",
     "venue": "Irvine Auditorium, University of Pennsylvania, Philadelphia, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3661,7 +3632,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "early show",
     "setlist": [
@@ -3679,7 +3650,7 @@ const shows = [
     "date": "1972 11 11",
     "venue": "D.A.R. Constitution Hall, Washington, DC",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3688,7 +3659,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "early show",
     "setlist": [
@@ -3707,7 +3678,7 @@ const shows = [
     "date": "1972 11 11",
     "venue": "D.A.R. Constitution Hall, Washington, DC",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3716,7 +3687,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "late show",
     "setlist": [
@@ -3734,7 +3705,7 @@ const shows = [
     "date": "1972 12 02",
     "venue": "Cowtown Ballroom, Kansas City, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3743,7 +3714,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "early show",
     "setlist": [
@@ -3762,7 +3733,7 @@ const shows = [
     "date": "1972 12 02",
     "venue": "Cowtown Ballroom, Kansas City, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3771,7 +3742,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "late show",
     "setlist": [
@@ -3790,7 +3761,7 @@ const shows = [
     "date": "1972 12 03",
     "venue": "Pershing Municipal Auditorium, Lincoln, NE",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3799,7 +3770,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "",
     "setlist": [
@@ -3820,7 +3791,7 @@ const shows = [
     "date": "1972 12 09",
     "venue": "Paramount Theatre, Portland, OR",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3829,7 +3800,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "early show",
     "setlist": [
@@ -3846,7 +3817,7 @@ const shows = [
     "date": "1972 12 09",
     "venue": "Paramount Theatre, Portland, OR",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3855,7 +3826,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "late show",
     "setlist": [
@@ -3872,7 +3843,7 @@ const shows = [
     "date": "1972 12 12",
     "venue": "Paramount Theatre, Portland, OR",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3881,7 +3852,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "",
     "setlist": []
@@ -3890,7 +3861,7 @@ const shows = [
     "date": "1972 12 31",
     "venue": "D.A.R. Constitution Hall, Washington DC",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Tony Duran",
       "Dave Parlato",
       "Jim Gordon",
@@ -3899,7 +3870,7 @@ const shows = [
       "Tom Malone",
       "Earle Dumler",
       "Glenn Ferris",
-      "Gary Barone."
+      "Gary Barone"
     ],
     "slot": "",
     "setlist": []
@@ -3908,7 +3879,7 @@ const shows = [
     "date": "1973 02 24",
     "venue": "Cameron Stadium, Duke University, Durham, NC",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -3916,8 +3887,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -3938,7 +3908,7 @@ const shows = [
     "date": "1973 03 01",
     "venue": "Daytona Beach, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -3946,8 +3916,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": []
@@ -3956,7 +3925,7 @@ const shows = [
     "date": "1973 03 02",
     "venue": "Curtis Hixon Hall, Tampa, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -3964,8 +3933,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -3986,7 +3954,7 @@ const shows = [
     "date": "1973 03 04",
     "venue": "Peabody Auditorium, Daytona Beach, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -3994,8 +3962,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "late show",
     "setlist": [
@@ -4016,7 +3983,7 @@ const shows = [
     "date": "1973 03 07",
     "venue": "Veterans Memorial Hall, Columbus, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4024,8 +3991,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4050,7 +4016,7 @@ const shows = [
     "date": "1973 03 09",
     "venue": "Civic Center Music Hall, Oklahoma City, OK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4058,8 +4024,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4083,7 +4048,7 @@ const shows = [
     "date": "1973 03 11",
     "venue": "Texas Hall Auditorium, Arlington, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4091,8 +4056,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4116,7 +4080,7 @@ const shows = [
     "date": "1973 04 27",
     "venue": "McCarter Theatre, Princeton University, Princeton, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4125,7 +4089,7 @@ const shows = [
       "George Duke",
       "Bruce Fowler",
       "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Kin Vassy"
     ],
     "slot": "",
     "setlist": [
@@ -4160,7 +4124,7 @@ const shows = [
     "date": "1973 04 28",
     "venue": "Spectrum Theater, Philadelphia, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4169,7 +4133,7 @@ const shows = [
       "George Duke",
       "Bruce Fowler",
       "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Kin Vassy"
     ],
     "slot": "",
     "setlist": [
@@ -4194,7 +4158,7 @@ const shows = [
     "date": "1973 05 01",
     "venue": "Kent State University, Kent, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4203,7 +4167,7 @@ const shows = [
       "George Duke",
       "Bruce Fowler",
       "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Kin Vassy"
     ],
     "slot": "",
     "setlist": [
@@ -4228,7 +4192,7 @@ const shows = [
     "date": "1973 05 02",
     "venue": "Coliseum, Indianapolis, IN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4236,8 +4200,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4258,7 +4221,7 @@ const shows = [
     "date": "1973 05 ??",
     "venue": "Unknown venue",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4266,8 +4229,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4286,7 +4248,7 @@ const shows = [
     "date": "1973 05 03",
     "venue": "Appleton, WI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4294,8 +4256,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": []
@@ -4304,7 +4265,7 @@ const shows = [
     "date": "1973 05 04",
     "venue": "Maple Leaf Gardens, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4312,8 +4273,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4334,7 +4294,7 @@ const shows = [
     "date": "1973 05 05",
     "venue": "War Memorial Auditorium, Rochester, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4342,8 +4302,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4363,7 +4322,7 @@ const shows = [
     "date": "1973 05 06",
     "venue": "Syria Mosque, Pittsburgh, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4371,8 +4330,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4394,7 +4352,7 @@ const shows = [
     "date": "1973 05 08",
     "venue": "Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4402,8 +4360,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4424,7 +4381,7 @@ const shows = [
     "date": "1973 05 09",
     "venue": "Capitol Theatre, Passaic, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4432,8 +4389,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4463,7 +4419,7 @@ const shows = [
     "date": "1973 05 13",
     "venue": "Fieldhouse, University Of Cincinnati, Cincinnati, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4471,8 +4427,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4491,7 +4446,7 @@ const shows = [
     "date": "1973 05 16",
     "venue": "Auditorium Theatre, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4499,8 +4454,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4524,7 +4478,7 @@ const shows = [
     "date": "1973 05 18",
     "venue": "Nassau Coliseum, Uniondale, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4532,8 +4486,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4556,7 +4509,7 @@ const shows = [
     "date": "1973 05 19",
     "venue": "Great McGonigle's Seaside Park, Annapolis, MD",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4564,8 +4517,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4584,7 +4536,7 @@ const shows = [
     "date": "1973 06 21",
     "venue": "Festival Hall, Brisbane, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4592,8 +4544,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4618,7 +4569,7 @@ const shows = [
     "date": "1973 06 24",
     "venue": "Hordern Pavilion, Sydney, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4626,8 +4577,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4652,7 +4602,7 @@ const shows = [
     "date": "1973 06 25",
     "venue": "Hordern Pavilion, Sydney, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4660,8 +4610,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4689,7 +4638,7 @@ const shows = [
     "date": "1973 06 26",
     "venue": "Hordern Pavilion, Sydney, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4697,8 +4646,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4719,7 +4667,7 @@ const shows = [
     "date": "1973 06 28",
     "venue": "Festival Hall, Melbourne, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4727,8 +4675,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "rehearsals",
     "setlist": [
@@ -4754,7 +4701,7 @@ const shows = [
     "date": "1973 06 28",
     "venue": "Festival Hall, Melbourne, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4762,8 +4709,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "show",
     "setlist": [
@@ -4789,7 +4735,7 @@ const shows = [
     "date": "1973 06 29",
     "venue": "Festival Hall, Melbourne, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4797,8 +4743,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4820,7 +4765,7 @@ const shows = [
     "date": "1973 07 01",
     "venue": "Festival Hall, Melbourne, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4828,8 +4773,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4852,7 +4796,7 @@ const shows = [
     "date": "1973 07 04",
     "venue": "Apollo Stadium, Adelaide, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4860,8 +4804,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4882,7 +4825,7 @@ const shows = [
     "date": "1973 07 08",
     "venue": "Hordern Pavilion, Sydney, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4890,8 +4833,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4914,7 +4856,7 @@ const shows = [
     "date": "1973 08 18",
     "venue": "KB Hallen, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4922,8 +4864,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4952,7 +4893,7 @@ const shows = [
     "date": "1973 08 21",
     "venue": "Solliden, Skansen, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4960,8 +4901,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -4981,7 +4921,7 @@ const shows = [
     "date": "1973 08 26",
     "venue": "Kalvoya Festivalen, Sandvika, Norway",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -4989,8 +4929,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -5012,7 +4951,7 @@ const shows = [
     "date": "1973 08 26",
     "venue": "Kalvoya Festivalen, Sandvika, Norway",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -5020,8 +4959,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "show",
     "setlist": [
@@ -5043,7 +4981,7 @@ const shows = [
     "date": "1973 08 28",
     "venue": "Stadthalle, Freiburg, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -5051,8 +4989,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -5081,7 +5018,7 @@ const shows = [
     "date": "1973 08 30",
     "venue": "Stadio Comunale, Bologna, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -5089,8 +5026,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -5110,7 +5046,7 @@ const shows = [
     "date": "1973 08 31",
     "venue": "Palasport, Roma, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -5118,8 +5054,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -5148,7 +5083,7 @@ const shows = [
     "date": "1973 09 02",
     "venue": "Mehrzweckhalle, Wetzikon, Zürich, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -5156,8 +5091,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -5182,7 +5116,7 @@ const shows = [
     "date": "1973 09 03",
     "venue": "Deutsches Museum, München, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -5190,8 +5124,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -5218,7 +5151,7 @@ const shows = [
     "date": "1973 09 05",
     "venue": "Stadthalle, Offenbach, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -5226,8 +5159,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -5249,7 +5181,7 @@ const shows = [
     "date": "1973 09 08",
     "venue": "Vorst Nationaal, Bruxelles, Belgium",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -5257,8 +5189,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -5278,7 +5209,7 @@ const shows = [
     "date": "1973 09 11",
     "venue": "Liverpool Stadium, Liverpool, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -5286,8 +5217,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -5312,7 +5242,7 @@ const shows = [
     "date": "1973 09 13",
     "venue": "Town Hall, Birmingham, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -5320,8 +5250,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -5354,7 +5283,7 @@ const shows = [
     "date": "1973 09 14",
     "venue": "Empire Pool, Wembley, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Jean Luc Ponty",
       "Tom Fowler",
       "Ralph Humphrey",
@@ -5362,8 +5291,7 @@ const shows = [
       "Ian Underwood",
       "George Duke",
       "Bruce Fowler",
-      "Sal Marquez (late March - July)",
-      "Kin Vassy (73/04/07-73/05/01)."
+      "Sal Marquez (late March - July)"
     ],
     "slot": "",
     "setlist": [
@@ -5394,14 +5322,14 @@ const shows = [
     "date": "1973 10 26",
     "venue": "Armadillo World Headquarters, Austin, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -5423,14 +5351,14 @@ const shows = [
     "date": "1973 10 31",
     "venue": "Auditorium Theatre, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "early show",
     "setlist": [
@@ -5457,14 +5385,14 @@ const shows = [
     "date": "1973 11 04",
     "venue": "Whitman Auditorium, Brooklyn College, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "early show",
     "setlist": [
@@ -5486,14 +5414,14 @@ const shows = [
     "date": "1973 11 04",
     "venue": "Whitman Auditorium, Brooklyn College, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "late show",
     "setlist": [
@@ -5519,14 +5447,14 @@ const shows = [
     "date": "1973 11 06",
     "venue": "Hofstra University, Hempstead, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "early show",
     "setlist": [
@@ -5550,14 +5478,14 @@ const shows = [
     "date": "1973 11 06",
     "venue": "Hofstra University, Hempstead, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "late show",
     "setlist": [
@@ -5581,14 +5509,14 @@ const shows = [
     "date": "1973 11 07",
     "venue": "Orpheum Theater, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -5614,14 +5542,14 @@ const shows = [
     "date": "1973 11 11",
     "venue": "William Paterson College, Wayne, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "early show",
     "setlist": [
@@ -5642,14 +5570,14 @@ const shows = [
     "date": "1973 11 11",
     "venue": "William Paterson College, Wayne, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "late show",
     "setlist": [
@@ -5675,14 +5603,14 @@ const shows = [
     "date": "1973 11 18",
     "venue": "University Of Waterloo, Waterloo, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -5705,14 +5633,14 @@ const shows = [
     "date": "1973 11 22",
     "venue": "Avery Fisher Hall, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "early show",
     "setlist": [
@@ -5739,14 +5667,14 @@ const shows = [
     "date": "1973 11 22",
     "venue": "Avery Fisher Hall, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "late show",
     "setlist": [
@@ -5769,14 +5697,14 @@ const shows = [
     "date": "1973 11 23",
     "venue": "Massey Hall, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "early show",
     "setlist": [
@@ -5803,14 +5731,14 @@ const shows = [
     "date": "1973 11 23",
     "venue": "Massey Hall, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "late show",
     "setlist": [
@@ -5828,14 +5756,14 @@ const shows = [
     "date": "1973 11 24",
     "venue": "Massey Hall, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": []
@@ -5844,14 +5772,14 @@ const shows = [
     "date": "1973 11 26",
     "venue": "Edmonton, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": []
@@ -5860,14 +5788,14 @@ const shows = [
     "date": "1973 11 30",
     "venue": "Lowell Tech Institute Gym, Lowell, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": []
@@ -5876,14 +5804,14 @@ const shows = [
     "date": "1973 12 01",
     "venue": "SUNY, Stony Brook, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "early show",
     "setlist": [
@@ -5909,14 +5837,14 @@ const shows = [
     "date": "1973 12 01",
     "venue": "SUNY, Stony Brook, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "late show",
     "setlist": [
@@ -5934,14 +5862,14 @@ const shows = [
     "date": "1973 12 09 or 10",
     "venue": "Roxy, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -5962,7 +5890,7 @@ const shows = [
     "date": "1974 02 16",
     "venue": "Community Theatre, Berkeley, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -5970,7 +5898,7 @@ const shows = [
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -5996,7 +5924,7 @@ const shows = [
     "date": "1974 02 17",
     "venue": "Robertson Gymnasium, UCSB, Santa Barbara, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6004,7 +5932,7 @@ const shows = [
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6019,7 +5947,7 @@ const shows = [
     "date": "1974 02 23",
     "venue": "Shrine Auditorium, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6027,7 +5955,7 @@ const shows = [
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6049,7 +5977,7 @@ const shows = [
     "date": "1974 03 01",
     "venue": "Fabulous Fox Theatre, Atlanta, GA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6057,7 +5985,7 @@ const shows = [
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6075,7 +6003,7 @@ const shows = [
     "date": "1974 03 05",
     "venue": "Convention Center, Dallas, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6083,7 +6011,7 @@ const shows = [
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6111,7 +6039,7 @@ const shows = [
     "date": "1974 03 08",
     "venue": "Soldiers and Sailors Memorial Hall, Kansas City, KS",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6119,7 +6047,7 @@ const shows = [
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6150,7 +6078,7 @@ const shows = [
     "date": "1974 03 09",
     "venue": "Travel & Transport Building, State Fairgrounds, Oklahoma City, OK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6158,7 +6086,7 @@ const shows = [
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6186,7 +6114,7 @@ const shows = [
     "date": "1974 03 14",
     "venue": "Agrodome, Vancouver, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6194,7 +6122,7 @@ const shows = [
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6217,7 +6145,7 @@ const shows = [
     "date": "1974 03 15",
     "venue": "Paramount Theater, Seattle, WA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6225,7 +6153,7 @@ const shows = [
       "Ruth Underwood",
       "Bruce Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6254,7 +6182,7 @@ const shows = [
     "date": "1974 04 20",
     "venue": "Sports Arena, Toledo, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6263,7 +6191,7 @@ const shows = [
       "Bruce Fowler",
       "Walt Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6291,7 +6219,7 @@ const shows = [
     "date": "1974 04 24",
     "venue": "Convention Center, Indianapolis, IN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6300,7 +6228,7 @@ const shows = [
       "Bruce Fowler",
       "Walt Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6334,7 +6262,7 @@ const shows = [
     "date": "1974 05 01",
     "venue": "Broome County Arena, Binghamton, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6343,7 +6271,7 @@ const shows = [
       "Bruce Fowler",
       "Walt Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6377,7 +6305,7 @@ const shows = [
     "date": "1974 05 04",
     "venue": "D.A.R. Constitution Hall, Washington DC",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6386,7 +6314,7 @@ const shows = [
       "Bruce Fowler",
       "Walt Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "early show",
     "setlist": [
@@ -6418,7 +6346,7 @@ const shows = [
     "date": "1974 05 04",
     "venue": "D.A.R. Constitution Hall, Washington DC",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6427,7 +6355,7 @@ const shows = [
       "Bruce Fowler",
       "Walt Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "late show",
     "setlist": [
@@ -6446,7 +6374,7 @@ const shows = [
     "date": "1974 05 08",
     "venue": "Edinboro State College, Edinboro, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6455,7 +6383,7 @@ const shows = [
       "Bruce Fowler",
       "Walt Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6488,7 +6416,7 @@ const shows = [
     "date": "1974 05 10",
     "venue": "IMA Auditorium, Flint, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6497,7 +6425,7 @@ const shows = [
       "Bruce Fowler",
       "Walt Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6527,7 +6455,7 @@ const shows = [
     "date": "1974 05 12",
     "venue": "Convocation Center, Notre Dame University, South Bend, IN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Jeff Simmons",
       "Tom Fowler",
@@ -6536,7 +6464,7 @@ const shows = [
       "Bruce Fowler",
       "Walt Fowler",
       "Ralph Humphrey",
-      "Chester Thompson."
+      "Chester Thompson"
     ],
     "slot": "",
     "setlist": [
@@ -6573,13 +6501,12 @@ const shows = [
     "date": "1974 07 05",
     "venue": "Ambassador Theater, St. Louis, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "soundcheck intro",
@@ -6601,13 +6528,12 @@ const shows = [
     "date": "1974 07 06",
     "venue": "Robinson Memorial Auditorium, Little Rock, AR",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "soundcheck intro",
@@ -6636,13 +6562,12 @@ const shows = [
     "date": "1974 07 07",
     "venue": "Curtis Hixon Hall, Tampa, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": []
   },
@@ -6650,13 +6575,12 @@ const shows = [
     "date": "1974 07 12",
     "venue": "Jai Alai Fronton , Miami, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "soundcheck intro (q: Fascination",
@@ -6685,13 +6609,12 @@ const shows = [
     "date": "1974 07 13",
     "venue": "Bayfront Center Arena, St. Petersburg, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "soundcheck intro",
@@ -6716,13 +6639,12 @@ const shows = [
     "date": "1974 07 15",
     "venue": "St. Bernard Civic Auditorium, Chalmette, LA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "soundcheck intro",
@@ -6754,13 +6676,12 @@ const shows = [
     "date": "1974 07 17",
     "venue": "Celebrity Theater, Phoenix, AZ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "soundcheck intro",
@@ -6785,13 +6706,12 @@ const shows = [
     "date": "1974 07 19",
     "venue": "Circle Star Theatre, San Carlos, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "intros",
@@ -6817,13 +6737,12 @@ const shows = [
     "date": "1974 07 20",
     "venue": "Circle Star Theatre, San Carlos, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "intros",
@@ -6850,13 +6769,12 @@ const shows = [
     "date": "1974 07 21",
     "venue": "Circle Star Theatre, San Carlos, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "intros (q. Dragnet)",
@@ -6881,13 +6799,12 @@ const shows = [
     "date": "1974 08 07/08",
     "venue": "KCET-TV Studio, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": []
   },
@@ -6895,13 +6812,12 @@ const shows = [
     "date": "1974 08 11",
     "venue": "Golden Hall, San Diego, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Uncle Meat soundcheck",
@@ -6926,13 +6842,12 @@ const shows = [
     "date": "1974 08 27",
     "venue": "KCET-TV Studio, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": []
   },
@@ -6940,13 +6855,12 @@ const shows = [
     "date": "1974 09 07",
     "venue": "Palasport, Udine, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -6967,13 +6881,12 @@ const shows = [
     "date": "1974 09 08",
     "venue": "Stadio Comunale, Bologna, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -7000,13 +6913,12 @@ const shows = [
     "date": "1974 09 09",
     "venue": "Velodromo Vigorelli, Milano, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -7032,13 +6944,12 @@ const shows = [
     "date": "1974 09 11",
     "venue": "Kurhalle, Wien, Austria",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "early show",
     "setlist": [
       "Tush Tush Tush",
@@ -7059,13 +6970,12 @@ const shows = [
     "date": "1974 09 11",
     "venue": "Kurhalle, Wien, Austria",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "late show",
     "setlist": [
       "Tush Tush Tush",
@@ -7091,13 +7001,12 @@ const shows = [
     "date": "1974 09 12",
     "venue": "Jahrhunderthalle, Frankfurt, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "soundcheck",
     "setlist": [
       "Tush Tush Tush",
@@ -7117,13 +7026,12 @@ const shows = [
     "date": "1974 09 12",
     "venue": "Jahrhunderthalle, Frankfurt, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "early show",
     "setlist": [
       "Sleep Dirt",
@@ -7136,13 +7044,12 @@ const shows = [
     "date": "1974 09 12",
     "venue": "Jahrhunderthalle, Frankfurt, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "late show",
     "setlist": [
       "Tush Tush Tush",
@@ -7162,13 +7069,12 @@ const shows = [
     "date": "1974 09 14",
     "venue": "Deutschlandhalle, Berlin, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -7194,13 +7100,12 @@ const shows = [
     "date": "1974 09 16",
     "venue": "Congress Centrum, Hamburg, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -7225,13 +7130,12 @@ const shows = [
     "date": "1974 09 20",
     "venue": "KB Hallen, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Cosmik Debris",
@@ -7255,13 +7159,12 @@ const shows = [
     "date": "1974 09 25",
     "venue": "Konserthuset, Göteborg, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Stinkfoot",
@@ -7289,13 +7192,12 @@ const shows = [
     "date": "1974 09 27",
     "venue": "Alcazar, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": []
   },
@@ -7303,13 +7205,12 @@ const shows = [
     "date": "1974 09 27",
     "venue": "Palais des Sports, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Stinkfoot",
@@ -7321,13 +7222,12 @@ const shows = [
     "date": "1974 09 29",
     "venue": "Ancienne Belgique, Bruxelles, Belgium",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -7353,13 +7253,12 @@ const shows = [
     "date": "1974 10 01",
     "venue": "Festhalle Mustermesse, Basel, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "early show",
     "setlist": [
       "Tush Tush Tush",
@@ -7382,13 +7281,12 @@ const shows = [
     "date": "1974 10 01",
     "venue": "Festhalle Mustermesse, Basel, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "late show",
     "setlist": [
       "Tush Tush Tush",
@@ -7412,13 +7310,12 @@ const shows = [
     "date": "1974 10 03",
     "venue": "Salle Vallier, Marseille, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -7440,13 +7337,12 @@ const shows = [
     "date": "1974 10 28",
     "venue": "Palace Theatre, Waterbury, CT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Yellow Snow Suite"
@@ -7456,13 +7352,12 @@ const shows = [
     "date": "1974 10 29",
     "venue": "State Farm Show Arena, Harrisburg, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -7485,13 +7380,12 @@ const shows = [
     "date": "1974 10 31",
     "venue": "Felt Forum, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "early show",
     "setlist": [
       "Tush Tush Tush (q: Sweet Leilani)",
@@ -7514,13 +7408,12 @@ const shows = [
     "date": "1974 10 31",
     "venue": "Felt Forum, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "late show",
     "setlist": [
       "Tush Tush Tush",
@@ -7548,13 +7441,12 @@ const shows = [
     "date": "1974 11 01",
     "venue": "Capital Centre, Landover, MD",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Dog Meat",
@@ -7573,13 +7465,12 @@ const shows = [
     "date": "1974 11 06",
     "venue": "Syria Mosque, Pittsburgh, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -7600,13 +7491,12 @@ const shows = [
     "date": "1974 11 08",
     "venue": "Capitol Theater, Passaic, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "early show",
     "setlist": [
       "Tush Tush Tush",
@@ -7637,13 +7527,12 @@ const shows = [
     "date": "1974 11 08",
     "venue": "Capitol Theater, Passaic, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "late show",
     "setlist": [
       "Tush Tush Tush",
@@ -7671,13 +7560,12 @@ const shows = [
     "date": "1974 11 09",
     "venue": "Orpheum Theater, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "early show",
     "setlist": [
       "Tush Tush Tush",
@@ -7701,13 +7589,12 @@ const shows = [
     "date": "1974 11 09",
     "venue": "Orpheum Theater, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "late show",
     "setlist": [
       "Tush Tush Tush",
@@ -7731,13 +7618,12 @@ const shows = [
     "date": "1974 11 14",
     "venue": "War Memorial Auditorium, Rochester, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Village Of The Sun",
@@ -7752,13 +7638,12 @@ const shows = [
     "date": "1974 11 15",
     "venue": "Memorial Auditorium, Buffalo, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -7781,13 +7666,12 @@ const shows = [
     "date": "1974 11 17",
     "venue": "Spectrum Theater, Philadelphia, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -7818,13 +7702,12 @@ const shows = [
     "date": "1974 11 19",
     "venue": "Veterans Memorial Auditorium, Columbus, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -7847,13 +7730,12 @@ const shows = [
     "date": "1974 11 20",
     "venue": "Hara Arena, Dayton, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -7876,13 +7758,12 @@ const shows = [
     "date": "1974 11 23",
     "venue": "Jenison Fieldhouse, Michigan State University, East Lansing, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson",
-      "Mike Urso"
+      "Chester Thompson",      "Mike Urso"
     ],
     "slot": "",
     "setlist": [
@@ -7913,13 +7794,12 @@ const shows = [
     "date": "1974 11 26",
     "venue": "Pershing Municipal Auditorium, Lincoln, NE",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson",
-      "James \"Bird Legs\" Youmans"
+      "Chester Thompson",      "James \"Bird Legs\" Youmans"
     ],
     "slot": "",
     "setlist": [
@@ -7941,13 +7821,12 @@ const shows = [
     "date": "1974 11 27",
     "venue": "Civic Center Arena, St Paul, MN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson",
-      "James \"Bird Legs\" Youmans"
+      "Chester Thompson",      "James \"Bird Legs\" Youmans"
     ],
     "slot": "",
     "setlist": [
@@ -7975,13 +7854,12 @@ const shows = [
     "date": "1974 11 29",
     "venue": "Field House, North Central College, Naperville, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson",
-      "James \"Bird Legs\" Youmans"
+      "Chester Thompson",      "James \"Bird Legs\" Youmans"
     ],
     "slot": "",
     "setlist": [
@@ -8001,13 +7879,12 @@ const shows = [
     "date": "1974 11 30",
     "venue": "Field House, North Central College, Naperville, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson",
-      "James \"Bird Legs\" Youmans"
+      "Chester Thompson",      "James \"Bird Legs\" Youmans"
     ],
     "slot": "",
     "setlist": [
@@ -8037,13 +7914,12 @@ const shows = [
     "date": "1974 12 01",
     "venue": "Public Hall, Cleveland, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson",
-      "James \"Bird Legs\" Youmans"
+      "Chester Thompson",      "James \"Bird Legs\" Youmans"
     ],
     "slot": "",
     "setlist": []
@@ -8052,13 +7928,12 @@ const shows = [
     "date": "1974 12 03",
     "venue": "Public Hall, Cleveland, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson",
-      "James \"Bird Legs\" Youmans"
+      "Chester Thompson",      "James \"Bird Legs\" Youmans"
     ],
     "slot": "",
     "setlist": [
@@ -8083,13 +7958,12 @@ const shows = [
     "date": "1974 12? ??",
     "venue": "Rehearsals",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": []
   },
@@ -8097,13 +7971,12 @@ const shows = [
     "date": "1974 12 31",
     "venue": "Long Beach Arena, Long Beach, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "soundcheck",
     "setlist": [
       "Don't You Ever Wash That Thing?",
@@ -8115,13 +7988,12 @@ const shows = [
     "date": "1974 12 31",
     "venue": "Long Beach Arena, Long Beach, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Tom Fowler",
       "George Duke",
       "Ruth Underwood",
-      "Chester Thompson"
-    ],
+      "Chester Thompson"    ],
     "slot": "",
     "setlist": [
       "Tush Tush Tush",
@@ -8147,14 +8019,14 @@ const shows = [
     "date": "1975 04 11",
     "venue": "Bridges Auditorium, Pomona College, Claremont, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Denny Walley",
       "Captain Beefheart",
       "Tom Fowler",
       "Terry Bozzio",
       "Napoleon Murphy Brock",
       "George Duke",
-      "Bruce Fowler."
+      "Bruce Fowler"
     ],
     "slot": "early show",
     "setlist": [
@@ -8184,14 +8056,14 @@ const shows = [
     "date": "1975 04 11",
     "venue": "Bridges Auditorium, Pomona College, Claremont, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Denny Walley",
       "Captain Beefheart",
       "Tom Fowler",
       "Terry Bozzio",
       "Napoleon Murphy Brock",
       "George Duke",
-      "Bruce Fowler."
+      "Bruce Fowler"
     ],
     "slot": "late show",
     "setlist": [
@@ -8217,14 +8089,14 @@ const shows = [
     "date": "1975 04 18",
     "venue": "Veterans Memorial Coliseum, New Haven, CT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Denny Walley",
       "Captain Beefheart",
       "Tom Fowler",
       "Terry Bozzio",
       "Napoleon Murphy Brock",
       "George Duke",
-      "Bruce Fowler."
+      "Bruce Fowler"
     ],
     "slot": "",
     "setlist": [
@@ -8251,14 +8123,14 @@ const shows = [
     "date": "1975 04 19",
     "venue": "Capitol Theatre, Passaic, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Denny Walley",
       "Captain Beefheart",
       "Tom Fowler",
       "Terry Bozzio",
       "Napoleon Murphy Brock",
       "George Duke",
-      "Bruce Fowler."
+      "Bruce Fowler"
     ],
     "slot": "early show",
     "setlist": [
@@ -8279,14 +8151,14 @@ const shows = [
     "date": "1975 04 19",
     "venue": "Capitol Theatre, Passaic, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Denny Walley",
       "Captain Beefheart",
       "Tom Fowler",
       "Terry Bozzio",
       "Napoleon Murphy Brock",
       "George Duke",
-      "Bruce Fowler."
+      "Bruce Fowler"
     ],
     "slot": "late show",
     "setlist": [
@@ -8310,14 +8182,14 @@ const shows = [
     "date": "1975 04 25",
     "venue": "Nassau Veterans Memorial Coliseum, Uniondale, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Denny Walley",
       "Captain Beefheart",
       "Tom Fowler",
       "Terry Bozzio",
       "Napoleon Murphy Brock",
       "George Duke",
-      "Bruce Fowler."
+      "Bruce Fowler"
     ],
     "slot": "",
     "setlist": [
@@ -8340,14 +8212,14 @@ const shows = [
     "date": "1975 04 26",
     "venue": "Providence College, Providence, RI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Denny Walley",
       "Captain Beefheart",
       "Tom Fowler",
       "Terry Bozzio",
       "Napoleon Murphy Brock",
       "George Duke",
-      "Bruce Fowler."
+      "Bruce Fowler"
     ],
     "slot": "",
     "setlist": [
@@ -8377,14 +8249,14 @@ const shows = [
     "date": "1975 04 27",
     "venue": "Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Denny Walley",
       "Captain Beefheart",
       "Tom Fowler",
       "Terry Bozzio",
       "Napoleon Murphy Brock",
       "George Duke",
-      "Bruce Fowler."
+      "Bruce Fowler"
     ],
     "slot": "early show",
     "setlist": [
@@ -8408,14 +8280,14 @@ const shows = [
     "date": "1975 04 27",
     "venue": "Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Denny Walley",
       "Captain Beefheart",
       "Tom Fowler",
       "Terry Bozzio",
       "Napoleon Murphy Brock",
       "George Duke",
-      "Bruce Fowler."
+      "Bruce Fowler"
     ],
     "slot": "late show",
     "setlist": [
@@ -8439,14 +8311,14 @@ const shows = [
     "date": "1975 05 03",
     "venue": "Civic Center, Baltimore, MD",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Denny Walley",
       "Captain Beefheart",
       "Tom Fowler",
       "Terry Bozzio",
       "Napoleon Murphy Brock",
       "George Duke",
-      "Bruce Fowler."
+      "Bruce Fowler"
     ],
     "slot": "",
     "setlist": [
@@ -8468,14 +8340,14 @@ const shows = [
     "date": "1975 05 11",
     "venue": "International Amphitheater, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Denny Walley",
       "Captain Beefheart",
       "Tom Fowler",
       "Terry Bozzio",
       "Napoleon Murphy Brock",
       "George Duke",
-      "Bruce Fowler."
+      "Bruce Fowler"
     ],
     "slot": "",
     "setlist": [
@@ -8501,14 +8373,14 @@ const shows = [
     "date": "1975 05 13",
     "venue": "Kiel Auditorium, St. Louis, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Denny Walley",
       "Captain Beefheart",
       "Tom Fowler",
       "Terry Bozzio",
       "Napoleon Murphy Brock",
       "George Duke",
-      "Bruce Fowler."
+      "Bruce Fowler"
     ],
     "slot": "",
     "setlist": [
@@ -8532,14 +8404,14 @@ const shows = [
     "date": "1975 05 23",
     "venue": "County Coliseum, El Paso, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Denny Walley",
       "Captain Beefheart",
       "Tom Fowler",
       "Terry Bozzio",
       "Napoleon Murphy Brock",
       "George Duke",
-      "Bruce Fowler."
+      "Bruce Fowler"
     ],
     "slot": "",
     "setlist": [
@@ -8564,7 +8436,7 @@ const shows = [
     "date": "1975 09 27",
     "venue": "Robertson Gymnasium, UCSB, Santa Barbara, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -8602,7 +8474,7 @@ const shows = [
     "date": "1975 10 01",
     "venue": "War Memorial Gymnasium, Vancouver, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -8634,7 +8506,7 @@ const shows = [
     "date": "1975 10 03",
     "venue": "Paramount Northwest Theatre, Portland, OR",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -8658,7 +8530,7 @@ const shows = [
     "date": "1975 10 04",
     "venue": "Paramount Theatre, Seattle, WA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -8686,7 +8558,7 @@ const shows = [
     "date": "1975 10 04",
     "venue": "Paramount Theatre, Seattle, WA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -8720,7 +8592,7 @@ const shows = [
     "date": "1975 10 12",
     "venue": "Convention Center, Dallas, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -8750,7 +8622,7 @@ const shows = [
     "date": "1975 10 14",
     "venue": "Soldiers And Sailors Memorial Hall, Kansas City, KS",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -8778,7 +8650,7 @@ const shows = [
     "date": "1975 10 15",
     "venue": "Barnhill Fieldhouse, Fayetteville, AR",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -8813,7 +8685,7 @@ const shows = [
     "date": "1975 10 23",
     "venue": "Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -8849,7 +8721,7 @@ const shows = [
     "date": "1975 10 24",
     "venue": "Palace Theater, Providence, RI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -8889,7 +8761,7 @@ const shows = [
     "date": "1975 10 25",
     "venue": "Capitol Theatre, Passaic, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -8925,7 +8797,7 @@ const shows = [
     "date": "1975 10 26",
     "venue": "Hofstra University Playhouse, Hempstead, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -8955,7 +8827,7 @@ const shows = [
     "date": "1975 10 29",
     "venue": "Palace Theatre, Waterbury, CT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -8984,7 +8856,7 @@ const shows = [
     "date": "1975 10 29",
     "venue": "Palace Theatre, Waterbury, CT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9024,7 +8896,7 @@ const shows = [
     "date": "1975 10 31",
     "venue": "Felt Forum, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9055,7 +8927,7 @@ const shows = [
     "date": "1975 10 31",
     "venue": "Felt Forum, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9094,7 +8966,7 @@ const shows = [
     "date": "1975 11 01",
     "venue": "College Of William And Mary, Williamsburg, VA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9108,7 +8980,7 @@ const shows = [
     "date": "1975 11 02",
     "venue": "Cole Fieldhouse, University Of Maryland, College Park, MD",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9143,7 +9015,7 @@ const shows = [
     "date": "1975 11 03",
     "venue": "Spectrum Theater, Philadelphia, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9178,7 +9050,7 @@ const shows = [
     "date": "1975 11 08",
     "venue": "Civic Coliseum, Knoxville, TN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9212,7 +9084,7 @@ const shows = [
     "date": "1975 11 15",
     "venue": "Fieldhouse, Grand Valley State Colleges, Allendale, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9236,7 +9108,7 @@ const shows = [
     "date": "1975 11 22",
     "venue": "Hala Tivoli, Ljubljana, Slovenia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9260,7 +9132,7 @@ const shows = [
     "date": "1975 11 28",
     "venue": "Milwaukee Auditorium, Milwaukee, WI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9295,7 +9167,7 @@ const shows = [
     "date": "1975 11 30",
     "venue": "Auditorium Theatre, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9329,7 +9201,7 @@ const shows = [
     "date": "1975 12 05",
     "venue": "Arena, London, Ontario, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9359,7 +9231,7 @@ const shows = [
     "date": "1975 12 07",
     "venue": "Phys-Ed Complex, McMaster University, Hamilton, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9395,7 +9267,7 @@ const shows = [
     "date": "1975 12 09",
     "venue": "Forum Concert Bowl, Quebec City, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9421,7 +9293,7 @@ const shows = [
     "date": "1975 12 26",
     "venue": "Paramount Theatre, Oakland, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9459,7 +9331,7 @@ const shows = [
     "date": "1975 12 27",
     "venue": "Winterland, San Francisco, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9495,7 +9367,7 @@ const shows = [
     "date": "1975 12 31",
     "venue": "Forum, Inglewood, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9527,7 +9399,7 @@ const shows = [
     "date": "1976 01 20",
     "venue": "Hordern Pavilion, Sydney, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9571,7 +9443,7 @@ const shows = [
     "date": "1976 01 21",
     "venue": "Hordern Pavilion, Sydney, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9603,7 +9475,7 @@ const shows = [
     "date": "1976 01 22",
     "venue": "Festival Hall, Melbourne, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9644,7 +9516,7 @@ const shows = [
     "date": "1976 01 23",
     "venue": "Festival Hall, Melbourne, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9682,7 +9554,7 @@ const shows = [
     "date": "1976 01 24",
     "venue": "Apollo Stadium, Adelaide, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9714,7 +9586,7 @@ const shows = [
     "date": "1976 01 28",
     "venue": "W.A.C.A., Perth, Australia",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9749,7 +9621,7 @@ const shows = [
     "date": "1976 02 01",
     "venue": "Asakusa Kokusai Gekijo, Tokyo, Japan",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9783,7 +9655,7 @@ const shows = [
     "date": "1976 02 03",
     "venue": "Kosei Nenkin Kaikan, Osaka, Japan",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9820,7 +9692,7 @@ const shows = [
     "date": "1976 02 04",
     "venue": "Daigaku Seibu Kodo, Kyoto, Japan",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9859,7 +9731,7 @@ const shows = [
     "date": "1976 02 05",
     "venue": "Nippon Seinen-Kan, Tokyo, Japan",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9890,7 +9762,7 @@ const shows = [
     "date": "1976 02 13",
     "venue": "Kurhalle, Wien, Austria",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9923,7 +9795,7 @@ const shows = [
     "date": "1976 02 13",
     "venue": "Kurhalle, Wien, Austria",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9957,7 +9829,7 @@ const shows = [
     "date": "1976 02 14",
     "venue": "Deutsches Museum, München, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -9993,7 +9865,7 @@ const shows = [
     "date": "1976 02 15",
     "venue": "Friedrich Ebert Halle, Ludwigshafen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10032,7 +9904,7 @@ const shows = [
     "date": "1976 02 17",
     "venue": "Sporthalle, Köln, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10071,7 +9943,7 @@ const shows = [
     "date": "1976 02 18",
     "venue": "Niedersachsenhalle, Hannover, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10103,7 +9975,7 @@ const shows = [
     "date": "1976 02 19",
     "venue": "Grugahalle, Essen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10139,7 +10011,7 @@ const shows = [
     "date": "1976 02 20",
     "venue": "Congress Centrum, Hamburg, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10178,7 +10050,7 @@ const shows = [
     "date": "1976 02 21",
     "venue": "Vejlby-Risskov Hallen, Århus, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10220,7 +10092,7 @@ const shows = [
     "date": "1976 02 23",
     "venue": "Njaardhallen, Oslo, Norway",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10255,7 +10127,7 @@ const shows = [
     "date": "1976 02 24",
     "venue": "Konserthuset, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10279,7 +10151,7 @@ const shows = [
     "date": "1976 02 29",
     "venue": "Falkoner Teatret, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10312,7 +10184,7 @@ const shows = [
     "date": "1976 02 29",
     "venue": "Falkoner Teatret, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10344,7 +10216,7 @@ const shows = [
     "date": "1976 03 02",
     "venue": "Olympen, Lund, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10372,7 +10244,7 @@ const shows = [
     "date": "1976 03 02",
     "venue": "Olympen, Lund, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10398,7 +10270,7 @@ const shows = [
     "date": "1976 03 03",
     "venue": "Tivoli Gardens, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10429,7 +10301,7 @@ const shows = [
     "date": "1976 03 03",
     "venue": "Tivoli Gardens, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10466,7 +10338,7 @@ const shows = [
     "date": "1976 03 04",
     "venue": "Deutschlandhalle, Berlin, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10496,7 +10368,7 @@ const shows = [
     "date": "1976 03 04",
     "venue": "Deutschlandhalle, Berlin, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10526,7 +10398,7 @@ const shows = [
     "date": "1976 03 06",
     "venue": "Jaap Edenhal, Amsterdam, Netherlands",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10558,7 +10430,7 @@ const shows = [
     "date": "1976 03 07",
     "venue": "Vorst Nationaal, Bruxelles, Belgium",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10592,7 +10464,7 @@ const shows = [
     "date": "1976 03 08",
     "venue": "Palais des Sports, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10621,7 +10493,7 @@ const shows = [
     "date": "1976 03 11",
     "venue": "Oberheinhalle, Offenburg, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10652,7 +10524,7 @@ const shows = [
     "date": "1976 03 12",
     "venue": "Kongresshaus, Zürich, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10683,7 +10555,7 @@ const shows = [
     "date": "1976 03 13",
     "venue": "Palasport Mezzovico, Lugano, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Napoleon Murphy Brock",
       "Roy Estrada",
       "Andre Lewis",
@@ -10714,12 +10586,12 @@ const shows = [
     "date": "1976 10 12",
     "venue": "McAlister Auditorium, Tulane University, New Orleans, LA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "early show",
     "setlist": [
@@ -10730,12 +10602,12 @@ const shows = [
     "date": "1976 10 12",
     "venue": "McAlister Auditorium, Tulane University, New Orleans, LA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "late show",
     "setlist": [
@@ -10746,12 +10618,12 @@ const shows = [
     "date": "1976 10 16",
     "venue": "The Patio, University of Miami, Coral Gables (a.k.a. Miami), FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -10785,12 +10657,12 @@ const shows = [
     "date": "1976 10 18",
     "venue": "Memorial Auditorium, Vanderbilt University, Nashville, TN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -10824,12 +10696,12 @@ const shows = [
     "date": "1976 10 24",
     "venue": "Boston Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "early show",
     "setlist": [
@@ -10859,12 +10731,12 @@ const shows = [
     "date": "1976 10 24",
     "venue": "Boston Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "late show",
     "setlist": [
@@ -10894,12 +10766,12 @@ const shows = [
     "date": "1976 10 27",
     "venue": "Leroy Concert Theater, Pawtucket, RI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "early show",
     "setlist": [
@@ -10929,12 +10801,12 @@ const shows = [
     "date": "1976 10 29",
     "venue": "Spectrum Theater, Philadelphia, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -10969,12 +10841,12 @@ const shows = [
     "date": "1976 10 30",
     "venue": "Felt Forum, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -11004,12 +10876,12 @@ const shows = [
     "date": "1976 10 31",
     "venue": "Felt Forum, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "early show",
     "setlist": [
@@ -11037,12 +10909,12 @@ const shows = [
     "date": "1976 10 31",
     "venue": "Felt Forum, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "late show",
     "setlist": [
@@ -11073,12 +10945,12 @@ const shows = [
     "date": "1976 11 04",
     "venue": "Capitol Centre, Landover (a.k.a. Largo), MD",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -11104,12 +10976,12 @@ const shows = [
     "date": "1976 11 06",
     "venue": "Fieldhouse, Rensselaer Polytechnic Institute, Troy, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -11141,12 +11013,12 @@ const shows = [
     "date": "1976 11 06",
     "venue": "Fieldhouse, Rensselaer Polytechnic Institute, Troy, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "show",
     "setlist": [
@@ -11178,12 +11050,12 @@ const shows = [
     "date": "1976 11 07",
     "venue": "Civic Center, Springfield, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -11211,12 +11083,12 @@ const shows = [
     "date": "1976 11 09",
     "venue": "Civic Centre, Ottawa, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -11235,12 +11107,12 @@ const shows = [
     "date": "1976 11 10",
     "venue": "Forum, Montreal, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -11271,12 +11143,12 @@ const shows = [
     "date": "1976 11 10",
     "venue": "Rensselaer Polytechnic Institute, Troy, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": []
@@ -11285,12 +11157,12 @@ const shows = [
     "date": "1976 11 11",
     "venue": "Le Colisee, Quebec City, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -11318,12 +11190,12 @@ const shows = [
     "date": "1976 11 16",
     "venue": "Maple Leaf Gardens, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -11353,12 +11225,12 @@ const shows = [
     "date": "1976 11 18",
     "venue": "Evans Field House, DeKalb, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -11385,12 +11257,12 @@ const shows = [
     "date": "1976 11 19",
     "venue": "Cobo Hall, Detroit, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -11423,12 +11295,12 @@ const shows = [
     "date": "1976 11 20",
     "venue": "Public Hall, Cleveland, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -11458,12 +11330,12 @@ const shows = [
     "date": "1976 11 25",
     "venue": "Auditorium Theatre, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": [
@@ -11490,12 +11362,12 @@ const shows = [
     "date": "1976 12 11",
     "venue": "FZ at Saturday Night Live",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Eddie Jobson",
-      "Bianca Thornton (through November 11)."
+      "Bianca Thornton"
     ],
     "slot": "",
     "setlist": []
@@ -11504,7 +11376,7 @@ const shows = [
     "date": "1976 12 26",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -11549,7 +11421,7 @@ const shows = [
     "date": "1976 12 27",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -11592,7 +11464,7 @@ const shows = [
     "date": "1976 12 28",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -11635,7 +11507,7 @@ const shows = [
     "date": "1976 12 29",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -11681,7 +11553,7 @@ const shows = [
     "date": "1977 01 13",
     "venue": "Falkoner Teatret, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -11720,7 +11592,7 @@ const shows = [
     "date": "1977 01 15",
     "venue": "Konserthuset, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -11753,7 +11625,7 @@ const shows = [
     "date": "1977 01 21",
     "venue": "Scandinavium, Göteborg, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -11792,7 +11664,7 @@ const shows = [
     "date": "1977 01 24",
     "venue": "Congress Centrum, Hamburg, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -11825,7 +11697,7 @@ const shows = [
     "date": "1977 01 26",
     "venue": "Olympiahalle, München, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -11865,7 +11737,7 @@ const shows = [
     "date": "1977 01 27",
     "venue": "Philipshalle, Düsseldorf, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -11906,7 +11778,7 @@ const shows = [
     "date": "1977 01 28",
     "venue": "Vorst Nationaal, Bruxelles, Belgium",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -11947,7 +11819,7 @@ const shows = [
     "date": "1977 01 30",
     "venue": "Rhein-Main-Halle, Wiesbaden, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -11985,7 +11857,7 @@ const shows = [
     "date": "1977 01 31",
     "venue": "Sporthalle, Böblingen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -12022,7 +11894,7 @@ const shows = [
     "date": "1977 02 03",
     "venue": "Pavillon De Paris, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -12064,7 +11936,7 @@ const shows = [
     "date": "1977 02 05",
     "venue": "Netherlands Jaap Edenhal, Amsterdam, Netherlands",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -12103,7 +11975,7 @@ const shows = [
     "date": "1977 02 06",
     "venue": "Sporthalle, Köln, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -12139,7 +12011,7 @@ const shows = [
     "date": "1977 02 07",
     "venue": "Deutschlandhalle, Berlin, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -12178,7 +12050,7 @@ const shows = [
     "date": "1977 02 09",
     "venue": "Hammersmith Odeon, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -12218,7 +12090,7 @@ const shows = [
     "date": "1977 02 10",
     "venue": "Hammersmith Odeon, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -12257,7 +12129,7 @@ const shows = [
     "date": "1977 02 13",
     "venue": "Apollo Theatre, Glasgow, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -12296,7 +12168,7 @@ const shows = [
     "date": "1977 02 14",
     "venue": "Playhouse Theatre, Edinburgh, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -12335,7 +12207,7 @@ const shows = [
     "date": "1977 02 16",
     "venue": "Hammersmith Odeon, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -12374,7 +12246,7 @@ const shows = [
     "date": "1977 02 17",
     "venue": "Hammersmith Odeon, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -12416,7 +12288,7 @@ const shows = [
     "date": "1977 02 25",
     "venue": "Jaap Edenhall, Amsterdam, Netherlands",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ray White",
       "Patrick O'Hearn",
       "Terry Bozzio",
@@ -12437,13 +12309,13 @@ const shows = [
     "date": "1977 09 09",
     "venue": "Open Air Amphitheater, San Diego State University, San Diego, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -12476,13 +12348,13 @@ const shows = [
     "date": "1977 09 17",
     "venue": "Assembly Center, Louisiana State University, Baton Rouge, LA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -12512,13 +12384,13 @@ const shows = [
     "date": "1977 09 18",
     "venue": "Fox Theatre, Atlanta, GA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -12551,13 +12423,13 @@ const shows = [
     "date": "1977 09 23",
     "venue": "Assembly Hall, University Of Illinois, Champaign, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -12586,13 +12458,13 @@ const shows = [
     "date": "1977 09 25",
     "venue": "Metropolitan Sports Center, Minneapolis, MN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -12624,13 +12496,13 @@ const shows = [
     "date": "1977 09 29",
     "venue": "Maple Leaf Gardens, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -12665,13 +12537,13 @@ const shows = [
     "date": "1977 09 30",
     "venue": "Cobo Hall, Detroit, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -12702,13 +12574,13 @@ const shows = [
     "date": "1977 10 02",
     "venue": "Quadrangle, Washington University, St Louis, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -12740,13 +12612,13 @@ const shows = [
     "date": "1977 10 17",
     "venue": "Civic Center, Hartford, CT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -12780,13 +12652,13 @@ const shows = [
     "date": "1977 10 18",
     "venue": "Mid Hudson Civic Center, Poughskeepsie, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -12818,13 +12690,13 @@ const shows = [
     "date": "1977 10 20",
     "venue": "Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -12855,13 +12727,13 @@ const shows = [
     "date": "1977 10 20",
     "venue": "Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -12892,13 +12764,13 @@ const shows = [
     "date": "1977 10 22",
     "venue": "Forum, Montreal, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -12928,13 +12800,13 @@ const shows = [
     "date": "1977 10 23",
     "venue": "Leroy Concert Theater, Pawtucket, RI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -12965,13 +12837,13 @@ const shows = [
     "date": "1977 10 24",
     "venue": "Spectrum Theater, Philadelphia, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13004,13 +12876,13 @@ const shows = [
     "date": "1977 10 28",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -13043,13 +12915,13 @@ const shows = [
     "date": "1977 10 28",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -13081,13 +12953,13 @@ const shows = [
     "date": "1977 10 29",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -13120,13 +12992,13 @@ const shows = [
     "date": "1977 10 29",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -13160,13 +13032,13 @@ const shows = [
     "date": "1977 10 30",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13204,13 +13076,13 @@ const shows = [
     "date": "1977 10 31",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13247,13 +13119,13 @@ const shows = [
     "date": "1977 10 31",
     "venue": "Broadcast on King Biscuit Flower Hour, Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": []
@@ -13262,13 +13134,13 @@ const shows = [
     "date": "1977 11 06",
     "venue": "Hill Auditorium, Ann Arbor, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13295,13 +13167,13 @@ const shows = [
     "date": "1977 11 11",
     "venue": "Uptown Theater, Kansas City, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13327,13 +13199,13 @@ const shows = [
     "date": "1977 11 13",
     "venue": "The Auditorium Arena, Denver, CO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": []
@@ -13342,13 +13214,13 @@ const shows = [
     "date": "1977 11 14",
     "venue": "The Auditorium Arena, Denver, CO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13370,13 +13242,13 @@ const shows = [
     "date": "1977 11 18",
     "venue": "Memorial Auditorium, Sacramento, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13406,13 +13278,13 @@ const shows = [
     "date": "1977 11 19",
     "venue": "Maples Pavilion, Stanford University, Stanford, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13443,13 +13315,13 @@ const shows = [
     "date": "1977 11 20",
     "venue": "Pauley Pavillion, UCLA, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13484,13 +13356,13 @@ const shows = [
     "date": "1977 12 31",
     "venue": "Pauley Pavillion, UCLA, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13528,13 +13400,13 @@ const shows = [
     "date": "1978 01 24",
     "venue": "Hammersmith Odeon, London, England",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13572,13 +13444,13 @@ const shows = [
     "date": "1978 01 25",
     "venue": "Hammersmith Odeon, London, England",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13615,13 +13487,13 @@ const shows = [
     "date": "1978 01 26",
     "venue": "Hammersmith Odeon, London, England",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13648,13 +13520,13 @@ const shows = [
     "date": "1978 01 27",
     "venue": "Hammersmith Odeon, London, England",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13679,13 +13551,13 @@ const shows = [
     "date": "1978 01 29",
     "venue": "Festhalle, Frankfurt, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13721,13 +13593,13 @@ const shows = [
     "date": "1978 01 30",
     "venue": "Congress Centrum, Hamburg, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13754,13 +13626,13 @@ const shows = [
     "date": "1978 02 01",
     "venue": "Philipshalle, Düsseldorf, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13791,13 +13663,13 @@ const shows = [
     "date": "1978 02 03",
     "venue": "Stadthalle, Wien, Austria",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13831,13 +13703,13 @@ const shows = [
     "date": "1978 02 04",
     "venue": "Hallenstadion, Zürich, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": []
@@ -13846,13 +13718,13 @@ const shows = [
     "date": "1978 02 05",
     "venue": "Festehalle, Bern, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13887,13 +13759,13 @@ const shows = [
     "date": "1978 02 06",
     "venue": "Pavillon de Paris, Porte de Pantin, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13928,13 +13800,13 @@ const shows = [
     "date": "1978 02 07",
     "venue": "Pavillon de Paris, Porte de Pantin, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -13970,13 +13842,13 @@ const shows = [
     "date": "1978 02 10",
     "venue": "Palais Des Sports, Lyons, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14014,13 +13886,13 @@ const shows = [
     "date": "1978 02 13",
     "venue": "The Ahoy, Rotterdam, Netherlands",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14057,13 +13929,13 @@ const shows = [
     "date": "1978 02 14",
     "venue": "Sporthalle, Köln, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14090,13 +13962,13 @@ const shows = [
     "date": "1978 02 15",
     "venue": "Deutschlandhalle, Berlin, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14134,13 +14006,13 @@ const shows = [
     "date": "1978 02 17",
     "venue": "Falkoner Teatret, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -14169,13 +14041,13 @@ const shows = [
     "date": "1978 02 17",
     "venue": "Falkoner Teatret, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -14205,13 +14077,13 @@ const shows = [
     "date": "1978 02 18",
     "venue": "Scandinavium, Göteborg, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14247,13 +14119,13 @@ const shows = [
     "date": "1978 02 19",
     "venue": "Konserthuset, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -14267,13 +14139,13 @@ const shows = [
     "date": "1978 02 19",
     "venue": "Konserthuset, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -14298,13 +14170,13 @@ const shows = [
     "date": "1978 02 23",
     "venue": "Halle Münsterland, Münster, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14329,13 +14201,13 @@ const shows = [
     "date": "1978 02 24",
     "venue": "Rhein-Neckar Stadion, Eppelheim, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14367,13 +14239,13 @@ const shows = [
     "date": "1978 02 25",
     "venue": "Hemmerleinhalle, Neunkirchen am Brand, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14402,13 +14274,13 @@ const shows = [
     "date": "1978 02 26",
     "venue": "Vorst National, Bruxelles, Belgium",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14433,13 +14305,13 @@ const shows = [
     "date": "1978 02 28",
     "venue": "Hammersmith Odeon, London, England",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Adrian Belew",
       "Patrick O'Hearn",
       "Terry Bozzio",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14464,7 +14336,7 @@ const shows = [
     "date": "1978 08 26",
     "venue": "Festplatz Friedrichsau, Ulm, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14472,7 +14344,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14497,7 +14369,7 @@ const shows = [
     "date": "1978 08 ??",
     "venue" : "Circus Krone, München, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14505,7 +14377,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": []
@@ -14514,7 +14386,7 @@ const shows = [
     "date": "1978 09 03",
     "venue": "Ludwigsparkstadion, Saarbrücken, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14522,7 +14394,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14547,7 +14419,7 @@ const shows = [
     "date": "1978 09 04",
     "venue": "Stadthalle, Bremen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14555,7 +14427,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14582,7 +14454,7 @@ const shows = [
     "date": "1978 09 05",
     "venue": "Folkets Park, Malmö, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14590,7 +14462,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14620,7 +14492,7 @@ const shows = [
     "date": "1978 09 07",
     "venue": "Deutschlandhalle, Berlin, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14628,7 +14500,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14639,7 +14511,7 @@ const shows = [
     "date": "1978 09 08",
     "venue": "Circus Krone, München, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14647,7 +14519,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": []
@@ -14656,7 +14528,7 @@ const shows = [
     "date": "1978 09 09",
     "venue": "Knebworth House Open Air Festival, Stevenage, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14664,7 +14536,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14689,7 +14561,7 @@ const shows = [
     "date": "1978 09 15",
     "venue": "Jai Alai Fronton, Miami, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14697,7 +14569,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -14730,7 +14602,7 @@ const shows = [
     "date": "1978 09 15",
     "venue": "Jai Alai Fronton, Miami, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14738,7 +14610,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "show",
     "setlist": [
@@ -14771,7 +14643,7 @@ const shows = [
     "date": "1978 09 17",
     "venue": "Fox Theatre, Atlanta, GA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14779,7 +14651,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -14806,7 +14678,7 @@ const shows = [
     "date": "1978 09 17",
     "venue": "Fox Theatre, Atlanta, GA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14814,7 +14686,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -14840,7 +14712,7 @@ const shows = [
     "date": "1978 09 19",
     "venue": "Veterans Memorial Auditorium, Columbus, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14848,7 +14720,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14878,7 +14750,7 @@ const shows = [
     "date": "1978 09 21",
     "venue": "Mid Hudson Civic Center, Poughkeepsie, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14886,7 +14758,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14918,7 +14790,7 @@ const shows = [
     "date": "1978 09 28",
     "venue": "Cobo Hall, Detroit, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14926,7 +14798,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -14957,7 +14829,7 @@ const shows = [
     "date": "1978 09 29",
     "venue": "Uptown Theatre, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -14965,7 +14837,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -14993,7 +14865,7 @@ const shows = [
     "date": "1978 09 29",
     "venue": "Uptown Theatre, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15001,7 +14873,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -15029,7 +14901,7 @@ const shows = [
     "date": "1978 10 04",
     "venue": "Forum, Montreal, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15037,7 +14909,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -15065,7 +14937,7 @@ const shows = [
     "date": "1978 10 08",
     "venue": "Palace Theater, Albany, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15073,7 +14945,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -15097,7 +14969,7 @@ const shows = [
     "date": "1978 10 09",
     "venue": "Civic Center, Providence, RI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15105,7 +14977,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -15130,7 +15002,7 @@ const shows = [
     "date": "1978 10 10",
     "venue": "Le Colisee, Quebec, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15138,7 +15010,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -15165,7 +15037,7 @@ const shows = [
     "date": "1978 10 11",
     "venue": "Le Colisee, Quebec, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15173,7 +15045,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": []
@@ -15182,7 +15054,7 @@ const shows = [
     "date": "1978 10 13",
     "venue": "Capitol Theatre, Passaic, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15190,7 +15062,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -15216,7 +15088,7 @@ const shows = [
     "date": "1978 10 13",
     "venue": "Capitol Theatre, Passaic, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15224,7 +15096,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -15248,7 +15120,7 @@ const shows = [
     "date": "1978 10 14",
     "venue": "Cole Fieldhouse, University Of Maryland, College Park (a.k.a. Baltimore), MD",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15256,7 +15128,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -15283,7 +15155,7 @@ const shows = [
     "date": "1978 10 15",
     "venue": "State University of New York, Stony Brook, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15291,7 +15163,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -15316,7 +15188,7 @@ const shows = [
     "date": "1978 10 15",
     "venue": "State University of New York, Stony Brook, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15324,7 +15196,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -15351,7 +15223,7 @@ const shows = [
     "date": "1978 10 15",
     "venue": "State University of New York, Stony Brook, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15359,7 +15231,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "post-concert backstage jam",
     "setlist": [
@@ -15386,7 +15258,7 @@ const shows = [
     "date": "1978 10 21",
     "venue": "Saturday Night Live, NBC TV",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15394,7 +15266,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": []
@@ -15403,7 +15275,7 @@ const shows = [
     "date": "1978 10 23",
     "venue": "Spectrum Theater, Philadelphia, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15411,7 +15283,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -15438,7 +15310,7 @@ const shows = [
     "date": "1978 10 24",
     "venue": "The Palace Theater, Albany, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15446,7 +15318,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": []
@@ -15455,7 +15327,7 @@ const shows = [
     "date": "1978 10 25",
     "venue": "North Shore Coliseum, Danvers, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15463,7 +15335,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -15490,7 +15362,7 @@ const shows = [
     "date": "1978 10 27",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15498,7 +15370,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -15526,7 +15398,7 @@ const shows = [
     "date": "1978 10 27",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15534,7 +15406,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -15562,7 +15434,7 @@ const shows = [
     "date": "1978 10 28",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15570,7 +15442,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -15598,7 +15470,7 @@ const shows = [
     "date": "1978 10 28",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15606,7 +15478,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -15632,7 +15504,7 @@ const shows = [
     "date": "1978 10 29",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15640,7 +15512,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -15669,7 +15541,7 @@ const shows = [
     "date": "1978 10 31",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis (until 10 14)",
       "Patrick O'Hearn (from 10 13)",
       "Denny Walley",
@@ -15677,7 +15549,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -15722,7 +15594,7 @@ const shows = [
     "date": "1979 02 12",
     "venue": "Apollo Theater, Manchester, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -15730,7 +15602,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -15766,7 +15638,7 @@ const shows = [
     "date": "1979 02 13",
     "venue": "City Hall, Newcastle, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -15774,7 +15646,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -15808,7 +15680,7 @@ const shows = [
     "date": "1979 02 14",
     "venue": "Apollo Theater, Glasgow, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -15816,7 +15688,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -15850,7 +15722,7 @@ const shows = [
     "date": "1979 02 17",
     "venue": "Hammersmith Odeon, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -15858,7 +15730,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -15892,7 +15764,7 @@ const shows = [
     "date": "1979 02 18",
     "venue": "Hammersmith Odeon, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -15900,7 +15772,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -15934,7 +15806,7 @@ const shows = [
     "date": "1979 02 18",
     "venue": "Hammersmith Odeon, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -15942,7 +15814,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -15982,7 +15854,7 @@ const shows = [
     "date": "1979 02 19",
     "venue": "Hammersmith Odeon, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -15990,7 +15862,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16029,7 +15901,7 @@ const shows = [
     "date": "1979 02 21",
     "venue": "Voorst Nationaal, Bruxelles, Belgium",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16037,7 +15909,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16069,7 +15941,7 @@ const shows = [
     "date": "1979 02 23",
     "venue": "Nouvel Hippodrome, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16077,7 +15949,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16110,7 +15982,7 @@ const shows = [
     "date": "1979 02 24",
     "venue": "Nouvel Hippodrome, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16118,7 +15990,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -16149,7 +16021,7 @@ const shows = [
     "date": "1979 02 27",
     "venue": "The Ahoy, Rotterdam, Netherlands",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16157,7 +16029,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16190,7 +16062,7 @@ const shows = [
     "date": "1979 02 28",
     "venue": "Congress Centrum, Hamburg, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16198,7 +16070,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16232,7 +16104,7 @@ const shows = [
     "date": "1979 03 02",
     "venue": "Ekeberghallen, Oslo, Norway",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16240,7 +16112,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -16274,7 +16146,7 @@ const shows = [
     "date": "1979 03 02",
     "venue": "Ekeberghallen, Oslo, Norway",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16282,7 +16154,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "show",
     "setlist": [
@@ -16316,7 +16188,7 @@ const shows = [
     "date": "1979 03 03",
     "venue": "Johanneshovs Isstadion, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16324,7 +16196,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16356,7 +16228,7 @@ const shows = [
     "date": "1979 03 05",
     "venue": "Falkoner Teatret, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16364,7 +16236,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16397,7 +16269,7 @@ const shows = [
     "date": "1979 03 06",
     "venue": "Scandinavium, Göteborg, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16405,7 +16277,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16438,7 +16310,7 @@ const shows = [
     "date": "1979 03 11",
     "venue": "Palais de Sports, Lyons, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16446,7 +16318,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16477,7 +16349,7 @@ const shows = [
     "date": "1979 03 12",
     "venue": "Palais des Sports, Montpellier, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16485,7 +16357,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16514,7 +16386,7 @@ const shows = [
     "date": "1979 03 13",
     "venue": "Palau Blau Grana, Barcelona, Spain",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16522,7 +16394,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16552,7 +16424,7 @@ const shows = [
     "date": "1979 03 14",
     "venue": "Pabellon de Deportes, Madrid, Spain",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16560,7 +16432,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -16593,7 +16465,7 @@ const shows = [
     "date": "1979 03 18",
     "venue": "Le Palais de la Beaujoire, Nantes, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16601,7 +16473,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16629,7 +16501,7 @@ const shows = [
     "date": "1979 03 19",
     "venue": "Parc du Penfield, Brest, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16637,7 +16509,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16664,7 +16536,7 @@ const shows = [
     "date": "1979 03 21",
     "venue": "Rhein-Neckar-Halle, Eppelheim, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16672,7 +16544,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16711,7 +16583,7 @@ const shows = [
     "date": "1979 03 25",
     "venue": "Westfalenhalle, Dortmund, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16719,7 +16591,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16750,7 +16622,7 @@ const shows = [
     "date": "1979 03 26",
     "venue": "Eilenriedehalle, Hannover, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16758,7 +16630,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16787,7 +16659,7 @@ const shows = [
     "date": "1979 03 27",
     "venue": "Rhein-Main-Halle, Wiesbaden, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16795,7 +16667,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -16829,7 +16701,7 @@ const shows = [
     "date": "1979 03 27",
     "venue": "Rhein-Main-Halle, Wiesbaden, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16837,7 +16709,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -16863,7 +16735,7 @@ const shows = [
     "date": "1979 03 29",
     "venue": "Sporthalle, Köln, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16871,7 +16743,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16901,7 +16773,7 @@ const shows = [
     "date": "1979 03 30",
     "venue": "Hemmerleinhalle, Neunkirchen am Brand, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16909,7 +16781,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -16940,7 +16812,7 @@ const shows = [
     "date": "1979 03 31",
     "venue": "Rudi-Sedlmayer Sporthalle, München, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16948,7 +16820,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "early show",
     "setlist": [
@@ -16979,7 +16851,7 @@ const shows = [
     "date": "1979 03 31",
     "venue": "Rudi-Sedlmayer Sporthalle, München, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -16987,7 +16859,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "late show",
     "setlist": [
@@ -17016,7 +16888,7 @@ const shows = [
     "date": "1979 04 01",
     "venue": "Hallenstadion, Zürich, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Denny Walley",
       "Warren Cucurullo",
@@ -17024,7 +16896,7 @@ const shows = [
       "Vinnie Colaiuta",
       "Ed Mann",
       "Tommy Mars",
-      "Peter Wolf."
+      "Peter Wolf"
     ],
     "slot": "",
     "setlist": [
@@ -17057,12 +16929,12 @@ const shows = [
     "date": "1980 03 25",
     "venue": "Seattle Center Arena, Seattle, WA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -17099,12 +16971,12 @@ const shows = [
     "date": "1980 03 26",
     "venue": "Pacific Coliseum, Vancouver, BC, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -17136,12 +17008,12 @@ const shows = [
     "date": "1980 03 27",
     "venue": "McArthur Court, University Of Oregon, Eugene, OR",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -17178,12 +17050,12 @@ const shows = [
     "date": "1980 03 29",
     "venue": "Paramount Theatre, Portland, OR",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -17218,12 +17090,12 @@ const shows = [
     "date": "1980 03 30",
     "venue": "Memorial Auditorium, Sacramento, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -17257,12 +17129,12 @@ const shows = [
     "date": "1980 04 01",
     "venue": "Berkeley Community Theater, Berkeley, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "early show",
     "setlist": [
@@ -17296,12 +17168,12 @@ const shows = [
     "date": "1980 04 01",
     "venue": "Berkeley Community Theater, Berkeley, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -17338,12 +17210,12 @@ const shows = [
     "date": "1980 04 03",
     "venue": "Maples Pavilion, Stanford University, Stanford, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -17380,12 +17252,12 @@ const shows = [
     "date": "1980 04 04",
     "venue": "Sports Arena, San Diego, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -17410,12 +17282,12 @@ const shows = [
     "date": "1980 04 05",
     "venue": "Swing Auditorium, San Bernardino, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -17452,12 +17324,12 @@ const shows = [
     "date": "1980 04 06",
     "venue": "Sports Arena, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -17492,12 +17364,12 @@ const shows = [
     "date": "1980 04 08",
     "venue": "Celebrity Theatre, Phoenix, AZ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "early show",
     "setlist": [
@@ -17532,12 +17404,12 @@ const shows = [
     "date": "1980 04 08",
     "venue": "Celebrity Theatre, Phoenix, AZ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -17566,12 +17438,12 @@ const shows = [
     "date": "1980 04 11",
     "venue": "Henry Lovitt Arena, Wichita State University, Wichita, KS",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -17605,12 +17477,12 @@ const shows = [
     "date": "1980 04 12",
     "venue": "Civic Auditorium Music Hall, Omaha, NE",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -17641,12 +17513,12 @@ const shows = [
     "date": "1980 04 13",
     "venue": "Soldiers & Sailors Memorial Hall, Kansas City, KS",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "early show",
     "setlist": [
@@ -17679,12 +17551,12 @@ const shows = [
     "date": "1980 04 13",
     "venue": "Soldiers & Sailors Memorial Hall, Kansas City, KS",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -17715,12 +17587,12 @@ const shows = [
     "date": "1980 04 15",
     "venue": "Saenger Performing Arts Center, New Orleans, LA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "early show",
     "setlist": [
@@ -17731,12 +17603,12 @@ const shows = [
     "date": "1980 04 15",
     "venue": "Saenger Performing Arts Center, New Orleans, LA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -17766,12 +17638,12 @@ const shows = [
     "date": "1980 04 17",
     "venue": "Jai Alai Fronton, Tampa, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -17801,12 +17673,12 @@ const shows = [
     "date": "1980 04 18",
     "venue": "Sunrise Musical Theater, Sunrise (a.k.a. Ft. Lauderdale), FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "early show",
     "setlist": [
@@ -17842,12 +17714,12 @@ const shows = [
     "date": "1980 04 18",
     "venue": "Sunrise Musical Theater, Sunrise (a.k.a. Ft. Lauderdale), FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -17877,12 +17749,12 @@ const shows = [
     "date": "1980 04 19",
     "venue": "Gymnasium, University Of Florida, Gainesville, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -17915,12 +17787,12 @@ const shows = [
     "date": "1980 04 20",
     "venue": "Fox Theatre, Atlanta, GA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "early show",
     "setlist": [
@@ -17954,12 +17826,12 @@ const shows = [
     "date": "1980 04 20",
     "venue": "Fox Theatre, Atlanta, GA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -17988,12 +17860,12 @@ const shows = [
     "date": "1980 04 22",
     "venue": "Fieldhouse, Old Dominion University, Norfolk, VA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18013,12 +17885,12 @@ const shows = [
     "date": "1980 04 24",
     "venue": "Manley Field House, Syracuse University, Syracuse, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18048,12 +17920,12 @@ const shows = [
     "date": "1980 04 25",
     "venue": "Athletic Center, Rutgers University, Piscataway (a.k.a. East Brunswick), NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18088,12 +17960,12 @@ const shows = [
     "date": "1980 04 26",
     "venue": "RPI Fieldhouse, Troy, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -18129,12 +18001,12 @@ const shows = [
     "date": "1980 04 26",
     "venue": "RPI Fieldhouse, Troy, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "show",
     "setlist": [
@@ -18170,12 +18042,12 @@ const shows = [
     "date": "1980 04 27",
     "venue": "Stabler Arena, Lehigh University, Bethlehem, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18210,12 +18082,12 @@ const shows = [
     "date": "1980 04 29",
     "venue": "Tower Theatre, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "early show",
     "setlist": [
@@ -18247,12 +18119,12 @@ const shows = [
     "date": "1980 04 29",
     "venue": "Tower Theatre, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -18282,12 +18154,12 @@ const shows = [
     "date": "1980 05 02",
     "venue": "Civic Center, Providence, RI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18319,12 +18191,12 @@ const shows = [
     "date": "1980 05 03",
     "venue": "Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "early show",
     "setlist": [
@@ -18354,12 +18226,12 @@ const shows = [
     "date": "1980 05 03",
     "venue": "Music Hall, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -18394,12 +18266,12 @@ const shows = [
     "date": "1980 05 04",
     "venue": "Cumberland County Civic Center, Portland, ME",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18432,12 +18304,12 @@ const shows = [
     "date": "1980 05 06",
     "venue": "Veterans Memorial Stadium, Columbus, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18470,12 +18342,12 @@ const shows = [
     "date": "1980 05 08",
     "venue": "Mudd Club, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18499,12 +18371,12 @@ const shows = [
     "date": "1980 05 09",
     "venue": "Nassau Veterans Memorial Colliseum, Uniondale, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18543,12 +18415,12 @@ const shows = [
     "date": "1980 05 10",
     "venue": "Tower Theater, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "early show",
     "setlist": [
@@ -18571,12 +18443,12 @@ const shows = [
     "date": "1980 05 10",
     "venue": "Tower Theater, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -18608,12 +18480,12 @@ const shows = [
     "date": "1980 05 11",
     "venue": "Civic Center, Baltimore, MD",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18646,12 +18518,12 @@ const shows = [
     "date": "1980 05 23",
     "venue": "Vorst National Hal, Bruxelles, Belgium",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18685,12 +18557,12 @@ const shows = [
     "date": "1980 05 24",
     "venue": "The Ahoy, Rotterdam, Netherlands",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18724,12 +18596,12 @@ const shows = [
     "date": "1980 05 26",
     "venue": "Deutschlandhalle, Berlin, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18764,12 +18636,12 @@ const shows = [
     "date": "1980 05 27",
     "venue": "Stadthalle, Bremen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18804,12 +18676,12 @@ const shows = [
     "date": "1980 05 28",
     "venue": "Ostseehalle, Kiel, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18843,12 +18715,12 @@ const shows = [
     "date": "1980 05 30",
     "venue": "Forum, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -18883,12 +18755,12 @@ const shows = [
     "date": "1980 05 31",
     "venue": "Drammenshallen, Drammen, Norway",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -18922,12 +18794,12 @@ const shows = [
     "date": "1980 05 31",
     "venue": "Drammenshallen, Drammen, Norway",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "show",
     "setlist": [
@@ -18961,12 +18833,12 @@ const shows = [
     "date": "1980 06 01",
     "venue": "Eriksdalshallen, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "early show",
     "setlist": [
@@ -19001,12 +18873,12 @@ const shows = [
     "date": "1980 06 01",
     "venue": "Eriksdalshallen, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -19040,12 +18912,12 @@ const shows = [
     "date": "1980 06 02",
     "venue": "Scandinavium, Göteborg, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19079,12 +18951,12 @@ const shows = [
     "date": "1980 06 04",
     "venue": "Congress Centrum Hamburg, Hamburg, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19119,12 +18991,12 @@ const shows = [
     "date": "1980 06 05",
     "venue": "Eilenriedhalle, Hannover, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19159,12 +19031,12 @@ const shows = [
     "date": "1980 06 07",
     "venue": "Sporthalle, Köln, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "early show",
     "setlist": [
@@ -19192,12 +19064,12 @@ const shows = [
     "date": "1980 06 07",
     "venue": "Sporthalle, Köln, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -19224,12 +19096,12 @@ const shows = [
     "date": "1980 06 08",
     "venue": "Westfalenhalle, Dortmund, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19264,12 +19136,12 @@ const shows = [
     "date": "1980 06 09",
     "venue": "Philipshalle, Düsseldorf, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19302,12 +19174,12 @@ const shows = [
     "date": "1980 06 10",
     "venue": "Palais des Sports, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19342,12 +19214,12 @@ const shows = [
     "date": "1980 06 11",
     "venue": "Palais des Sports, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "early show",
     "setlist": [
@@ -19389,12 +19261,12 @@ const shows = [
     "date": "1980 06 11",
     "venue": "Palais des Sports, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "late show",
     "setlist": [
@@ -19428,12 +19300,12 @@ const shows = [
     "date": "1980 06 14",
     "venue": "Palais de la Beaujoire, Nantes, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19470,12 +19342,12 @@ const shows = [
     "date": "1980 06 17",
     "venue": "Wembley Arena, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19510,12 +19382,12 @@ const shows = [
     "date": "1980 06 18",
     "venue": "Wembley Arena, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19553,12 +19425,12 @@ const shows = [
     "date": "1980 06 20",
     "venue": "Theatre Antique, Orange, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19586,12 +19458,12 @@ const shows = [
     "date": "1980 06 21",
     "venue": "Patinoire des Vernets, Genève, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19622,12 +19494,12 @@ const shows = [
     "date": "1980 06 22",
     "venue": "Hallenstadion, Zürich, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19660,12 +19532,12 @@ const shows = [
     "date": "1980 06 25",
     "venue": "Eisstadion, Mannheim, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19697,12 +19569,12 @@ const shows = [
     "date": "1980 06 26",
     "venue": "Hemmerleinhalle, Neunkirchen am Brand, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19734,12 +19606,12 @@ const shows = [
     "date": "1980 06 27",
     "venue": "Stadthalle, Wien, Austria",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19770,12 +19642,12 @@ const shows = [
     "date": "1980 06 28",
     "venue": "Messehalle, Sindelfingen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19808,12 +19680,12 @@ const shows = [
     "date": "1980 06 30",
     "venue": "Theatre Antique, Vienne, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19853,12 +19725,12 @@ const shows = [
     "date": "1980 07 01",
     "venue": "Sous Chapiteau, Mulhouse, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19896,12 +19768,12 @@ const shows = [
     "date": "1980 07 02",
     "venue": "Festhalle, Frankfurt, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19933,12 +19805,12 @@ const shows = [
     "date": "1980 07 03",
     "venue": "Olympiahalle, München, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Arthur Barrow",
       "David Logeman",
-      "Tommy Mars."
+      "Tommy Mars"
     ],
     "slot": "",
     "setlist": [
@@ -19969,14 +19841,14 @@ const shows = [
     "date": "1980 10 12",
     "venue": "Johnson Gymnasium, UNM, Albuquerque, NM",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -20013,14 +19885,14 @@ const shows = [
     "date": "1980 10 13",
     "venue": "Celebrity Theatre, Phoenix, AZ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "early show",
     "setlist": [
@@ -20044,14 +19916,14 @@ const shows = [
     "date": "1980 10 13",
     "venue": "Celebrity Theatre, Phoenix, AZ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "late show",
     "setlist": [
@@ -20085,14 +19957,14 @@ const shows = [
     "date": "1980 10 16",
     "venue": "Armadillo World Headquarters, Austin, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "early show",
     "setlist": [
@@ -20127,14 +19999,14 @@ const shows = [
     "date": "1980 10 17",
     "venue": "Convention Center Arena, Dallas, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -20156,14 +20028,14 @@ const shows = [
     "date": "1980 10 18",
     "venue": "Brady Theater, Tulsa, OK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "late show",
     "setlist": [
@@ -20200,14 +20072,14 @@ const shows = [
     "date": "1980 10 21",
     "venue": "Sam Houston Coliseum, Houston, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -20238,14 +20110,14 @@ const shows = [
     "date": "1980 10 22",
     "venue": "Ellis Auditorium, Memphis, TN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -20282,14 +20154,14 @@ const shows = [
     "date": "1980 10 24",
     "venue": "Civic Center, Hartford, CT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -20325,14 +20197,14 @@ const shows = [
     "date": "1980 10 25",
     "venue": "Memorial Auditorium, Buffalo, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": []
@@ -20341,14 +20213,14 @@ const shows = [
     "date": "1980 10 26",
     "venue": "SUNY, Stony Brook, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "early show",
     "setlist": [
@@ -20378,14 +20250,14 @@ const shows = [
     "date": "1980 10 26",
     "venue": "SUNY, Stony Brook, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "late show",
     "setlist": [
@@ -20415,14 +20287,14 @@ const shows = [
     "date": "1980 10 28",
     "venue": "Palace Theater, Albany, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -20457,14 +20329,14 @@ const shows = [
     "date": "1980 10 30",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -20498,14 +20370,14 @@ const shows = [
     "date": "1980 10 31",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -20545,14 +20417,14 @@ const shows = [
     "date": "1980 11 01",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "early show",
     "setlist": [
@@ -20582,14 +20454,14 @@ const shows = [
     "date": "1980 11 01",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "late show",
     "setlist": [
@@ -20620,14 +20492,14 @@ const shows = [
     "date": "1980 11 06",
     "venue": "The Forum, Montreal, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -20651,14 +20523,14 @@ const shows = [
     "date": "1980 11 07",
     "venue": "Tower Theatre, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "early show",
     "setlist": [
@@ -20687,14 +20559,14 @@ const shows = [
     "date": "1980 11 07",
     "venue": "Tower Theatre, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "late show",
     "setlist": [
@@ -20720,14 +20592,14 @@ const shows = [
     "date": "1980 11 08",
     "venue": "Ocean State Performing Arts Center, Providence, RI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -20759,14 +20631,14 @@ const shows = [
     "date": "1980 11 10",
     "venue": "Coliseum, Richfield, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -20799,14 +20671,14 @@ const shows = [
     "date": "1980 11 11",
     "venue": "Maple Leaf Gardens, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -20842,14 +20714,14 @@ const shows = [
     "date": "1980 11 12",
     "venue": "The Forum, Montreal, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": []
@@ -20858,14 +20730,14 @@ const shows = [
     "date": "1980 11 13",
     "venue": "Stanley Theater, Pittsburgh, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "early show",
     "setlist": [
@@ -20894,14 +20766,14 @@ const shows = [
     "date": "1980 11 13",
     "venue": "Stanley Theater, Pittsburgh, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "late show",
     "setlist": [
@@ -20934,14 +20806,14 @@ const shows = [
     "date": "1980 11 15",
     "venue": "Southern Illinois University, Carbondale, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -20954,14 +20826,14 @@ const shows = [
     "date": "1980 11 17",
     "venue": "Minneapolis, MN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": []
@@ -20970,14 +20842,14 @@ const shows = [
     "date": "1980 11 18",
     "venue": "Civic Arena Bowl, St. Paul, MN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -21012,14 +20884,14 @@ const shows = [
     "date": "1980 11 22",
     "venue": "Louisville Gardens, Louisville, KY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -21045,14 +20917,14 @@ const shows = [
     "date": "1980 11 23",
     "venue": "Kiel Opera House, St. Louis, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "late show",
     "setlist": [
@@ -21085,14 +20957,14 @@ const shows = [
     "date": "1980 11 26",
     "venue": "Masonic Auditorium, Detroit, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "early show",
     "setlist": [
@@ -21124,14 +20996,14 @@ const shows = [
     "date": "1980 11 26",
     "venue": "Masonic Auditorium, Detroit, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "late show",
     "setlist": [
@@ -21160,14 +21032,14 @@ const shows = [
     "date": "1980 11 28",
     "venue": "Uptown Theater, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "early show",
     "setlist": [
@@ -21206,14 +21078,14 @@ const shows = [
     "date": "1980 11 28",
     "venue": "Uptown Theater, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "late show",
     "setlist": [
@@ -21232,14 +21104,14 @@ const shows = [
     "date": "1980 11 29",
     "venue": "Uptown Theater, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "late show",
     "setlist": [
@@ -21276,14 +21148,14 @@ const shows = [
     "date": "1980 11 30",
     "venue": "Civic Center, Des Moines, IA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -21348,14 +21220,14 @@ const shows = [
     "date": "1980 12 02",
     "venue": "Moby Gym, Colorado State University, Fort Collins, CO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -21391,14 +21263,14 @@ const shows = [
     "date": "1980 12 03",
     "venue": "Terrace Ballroom, Salt Lake City, UT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "early show",
     "setlist": [
@@ -21422,14 +21294,14 @@ const shows = [
     "date": "1980 12 03",
     "venue": "Terrace Ballroom, Salt Lake City, UT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "late show",
     "setlist": [
@@ -21452,14 +21324,14 @@ const shows = [
     "date": "1980 12 05",
     "venue": "Community Theater, Berkeley, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "early show",
     "setlist": [
@@ -21489,14 +21361,14 @@ const shows = [
     "date": "1980 12 05",
     "venue": "Community Theater, Berkeley, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "late show",
     "setlist": [
@@ -21533,14 +21405,14 @@ const shows = [
     "date": "1980 12 08",
     "venue": "Arlington Theater, Santa Barbara, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "",
     "setlist": [
@@ -21573,14 +21445,14 @@ const shows = [
     "date": "1980 12 11",
     "venue": "Civic Auditorium, Santa Monica, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "early show",
     "setlist": [
@@ -21611,14 +21483,14 @@ const shows = [
     "date": "1980 12 11",
     "venue": "Civic Auditorium, Santa Monica, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Steve Vai",
       "Ray White",
       "Arthur Barrow",
       "Vinnie Colaiuta",
       "Tommy Mars",
-      "Bob Harris #2."
+      "Bob Harris #2"
     ],
     "slot": "late show",
     "setlist": [
@@ -21655,14 +21527,14 @@ const shows = [
     "date": "1981 09 27",
     "venue": "Events Center, UCBS, Santa Barbara, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -21694,14 +21566,14 @@ const shows = [
     "date": "1981 09 28",
     "venue": "Memorial Auditorium, Sacramento, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -21730,14 +21602,14 @@ const shows = [
     "date": "1981 09 29",
     "venue": "Civic Auditorium, Santa Cruz, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -21766,14 +21638,14 @@ const shows = [
     "date": "1981 09 29",
     "venue": "Civic Auditorium, Santa Cruz, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -21806,14 +21678,14 @@ const shows = [
     "date": "1981 10 01",
     "venue": "Paramount Theatre, Portland, OR",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -21842,14 +21714,14 @@ const shows = [
     "date": "1981 10 02",
     "venue": "Center Arena, Seattle, WA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -21881,14 +21753,14 @@ const shows = [
     "date": "1981 10 07",
     "venue": "Alladin Theater, Las Vegas, NA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -21920,14 +21792,14 @@ const shows = [
     "date": "1981 10 09",
     "venue": "Main Auditorium, Tucson, AZ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -21957,14 +21829,14 @@ const shows = [
     "date": "1981 10 09",
     "venue": "Main Auditorium, Tucson, AZ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -21995,14 +21867,14 @@ const shows = [
     "date": "1981 10 10",
     "venue": "Mesa Amphitheater, Mesa, AZ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -22035,14 +21907,14 @@ const shows = [
     "date": "1981 10 10",
     "venue": "Mesa Amphitheater, Mesa, AZ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "show",
     "setlist": [
@@ -22075,14 +21947,14 @@ const shows = [
     "date": "1981 10 11",
     "venue": "Johnson Gymnasium, UNM, Albuquerque, NM",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22117,14 +21989,14 @@ const shows = [
     "date": "1981 10 17",
     "venue": "The Summit, Houston, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22157,14 +22029,14 @@ const shows = [
     "date": "1981 10 18",
     "venue": "Erwin Center, University of Texas, Austin, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22199,14 +22071,14 @@ const shows = [
     "date": "1981 10 20",
     "venue": "Saenger Performing Arts Center, New Orleans, LA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22237,14 +22109,14 @@ const shows = [
     "date": "1981 10 22",
     "venue": "Bayfront Center Arena, St. Petersburg, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22277,14 +22149,14 @@ const shows = [
     "date": "1981 10 23",
     "venue": "Sunrise Musical Theater, Sunrise (a.k.a. Ft. Lauderdale), FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22313,14 +22185,14 @@ const shows = [
     "date": "1981 10 24",
     "venue": "O'Connell Center, University of Florida, Gainesville, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22353,14 +22225,14 @@ const shows = [
     "date": "1981 10 25",
     "venue": "Fox Theatre, Atlanta, GA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22393,14 +22265,14 @@ const shows = [
     "date": "1981 10 27",
     "venue": "Veterans Memorial Auditorium, Columbus, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22428,14 +22300,14 @@ const shows = [
     "date": "1981 10 29",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22469,14 +22341,14 @@ const shows = [
     "date": "1981 10 30",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22512,14 +22384,14 @@ const shows = [
     "date": "1981 10 31",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -22554,14 +22426,14 @@ const shows = [
     "date": "1981 10 31",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -22597,14 +22469,14 @@ const shows = [
     "date": "1981 11 01",
     "venue": "Palladium, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22642,14 +22514,14 @@ const shows = [
     "date": "1981 11 03",
     "venue": "Tower Theater, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -22679,14 +22551,14 @@ const shows = [
     "date": "1981 11 04",
     "venue": "Ocean State Performing Arts Center, Providence, RI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": []
@@ -22695,14 +22567,14 @@ const shows = [
     "date": "1981 11 06",
     "venue": "Civic Center, Hartford, CT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22735,14 +22607,14 @@ const shows = [
     "date": "1981 11 07",
     "venue": "Case Center, Boston University, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -22774,14 +22646,14 @@ const shows = [
     "date": "1981 11 07",
     "venue": "Case Center, Boston University, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -22811,14 +22683,14 @@ const shows = [
     "date": "1981 11 08",
     "venue": "Forum, Montreal, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22851,14 +22723,14 @@ const shows = [
     "date": "1981 11 09",
     "venue": "Maple Leaf Gardens, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -22891,14 +22763,14 @@ const shows = [
     "date": "1981 11 11",
     "venue": "Shea's Theatre, Buffalo, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -22928,14 +22800,14 @@ const shows = [
     "date": "1981 11 11",
     "venue": "Shea's Theatre, Buffalo, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -22967,14 +22839,14 @@ const shows = [
     "date": "1981 11 13",
     "venue": "Manley Field House, Syracuse University, Syracuse, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -23009,14 +22881,14 @@ const shows = [
     "date": "1981 11 15",
     "venue": "Painter's Mill Star Theatre, Owings Mill (a.k.a. Baltimore), MD",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -23048,14 +22920,14 @@ const shows = [
     "date": "1981 11 15",
     "venue": "Painter's Mill Star Theatre, Owings Mill (a.k.a. Baltimore), MD",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -23088,14 +22960,14 @@ const shows = [
     "date": "1981 11 17",
     "venue": "The Ritz, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -23136,14 +23008,14 @@ const shows = [
     "date": "1981 11 19",
     "venue": "Public Hall, Cleveland, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -23172,14 +23044,14 @@ const shows = [
     "date": "1981 11 20",
     "venue": "Riverfront Coliseum, Cincinnati, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -23210,14 +23082,14 @@ const shows = [
     "date": "1981 11 21",
     "venue": "Assembly Hall, University Of Illinois, Champaign (a.k.a. Urbana), IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -23249,14 +23121,14 @@ const shows = [
     "date": "1981 11 22",
     "venue": "Indiana University Auditorium, Bloomington, IN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -23287,14 +23159,14 @@ const shows = [
     "date": "1981 11 23",
     "venue": "Park West Club, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -23321,14 +23193,14 @@ const shows = [
     "date": "1981 11 23",
     "venue": "Park West Club, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -23355,14 +23227,14 @@ const shows = [
     "date": "1981 11 25",
     "venue": "Cobo Hall, Detroit, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -23397,14 +23269,14 @@ const shows = [
     "date": "1981 11 27",
     "venue": "Uptown Theatre, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -23436,14 +23308,14 @@ const shows = [
     "date": "1981 11 27",
     "venue": "Uptown Theatre, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -23469,14 +23341,14 @@ const shows = [
     "date": "1981 11 28",
     "venue": "Northrop Auditorium, Minneapolis, MN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -23509,14 +23381,14 @@ const shows = [
     "date": "1981 11 29",
     "venue": "St Paul, MN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": []
@@ -23525,14 +23397,14 @@ const shows = [
     "date": "1981 12 04",
     "venue": "Kiel Opera House, St Louis, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -23560,14 +23432,14 @@ const shows = [
     "date": "1981 12 05",
     "venue": "Municipal Auditorium, Kansas City, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -23596,14 +23468,14 @@ const shows = [
     "date": "1981 12 06",
     "venue": "Events Center, University of Colorado, Boulder, CO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -23634,14 +23506,14 @@ const shows = [
     "date": "1981 12 10",
     "venue": "Community Theater, Berkeley, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -23672,14 +23544,14 @@ const shows = [
     "date": "1981 12 10",
     "venue": "Community Theater, Berkeley, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -23708,14 +23580,14 @@ const shows = [
     "date": "1981 12 11",
     "venue": "Civic Auditorium, Santa Monica, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -23747,14 +23619,14 @@ const shows = [
     "date": "1981 12 11",
     "venue": "Civic Auditorium, Santa Monica, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -23787,14 +23659,14 @@ const shows = [
     "date": "1981 12 12",
     "venue": "Fox Theatre, San Diego, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -23825,14 +23697,14 @@ const shows = [
     "date": "1981 12 12",
     "venue": "Fox Theatre, San Diego, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -23860,14 +23732,14 @@ const shows = [
     "date": "1982 05 05",
     "venue": "Vejlby-Risskov Hallen, Århus, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -23901,14 +23773,14 @@ const shows = [
     "date": "1982 05 07",
     "venue": "Johanneshovs Isstadion, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -23942,14 +23814,14 @@ const shows = [
     "date": "1982 05 07",
     "venue": "Johanneshovs Isstadion, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "show",
     "setlist": [
@@ -23983,14 +23855,14 @@ const shows = [
     "date": "1982 05 08",
     "venue": "Drammenshallen, Drammen, Norway",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24024,14 +23896,14 @@ const shows = [
     "date": "1982 05 10",
     "venue": "Scandinavium, Göteborg, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24067,14 +23939,14 @@ const shows = [
     "date": "1982 05 11",
     "venue": "Brøndbyhallen, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24112,14 +23984,14 @@ const shows = [
     "date": "1982 05 12",
     "venue": "Deutschlandhalle, Berlin, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24156,14 +24028,14 @@ const shows = [
     "date": "1982 05 14",
     "venue": "Vorst Nationaal, Bruxelles, Belgium",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24194,14 +24066,14 @@ const shows = [
     "date": "1982 05 15",
     "venue": "The Ahoy, Rotterdam, Netherlands",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24236,14 +24108,14 @@ const shows = [
     "date": "1982 05 17",
     "venue": "Nouvel Hippodrome, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24280,14 +24152,14 @@ const shows = [
     "date": "1982 05 18",
     "venue": "Nouvel Hippodrome, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24318,14 +24190,14 @@ const shows = [
     "date": "1982 05 19",
     "venue": "Nouvel Hippodrome, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24359,14 +24231,14 @@ const shows = [
     "date": "1982 05 21",
     "venue": "Sporthalle, Köln, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24401,14 +24273,14 @@ const shows = [
     "date": "1982 05 22",
     "venue": "Philipshalle, Düsseldorf, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24444,14 +24316,14 @@ const shows = [
     "date": "1982 05 23",
     "venue": "Ostseehalle, Kiel, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24479,14 +24351,14 @@ const shows = [
     "date": "1982 05 28",
     "venue": "Palais des Sports, St. Etienne, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24520,14 +24392,14 @@ const shows = [
     "date": "1982 05 29",
     "venue": "Les Arenes, Frejus, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24559,14 +24431,14 @@ const shows = [
     "date": "1982 05 30",
     "venue": "Les Arenes, Cap d'Agde, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24598,14 +24470,14 @@ const shows = [
     "date": "1982 06 02",
     "venue": "La Salle d'Omnisports, Rennes, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24630,14 +24502,14 @@ const shows = [
     "date": "1982 06 03",
     "venue": "Palais des Sports, Dijon, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24650,14 +24522,14 @@ const shows = [
     "date": "1982 06 05",
     "venue": "Vechtewiese, Schüttorf, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24686,14 +24558,14 @@ const shows = [
     "date": "1982 06 06",
     "venue": "Rhein Neckar Stadion, Mannheim, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24706,14 +24578,14 @@ const shows = [
     "date": "1982 06 08",
     "venue": "Congress Centrum, Hamburg, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24747,14 +24619,14 @@ const shows = [
     "date": "1982 06 09",
     "venue": "Stadthalle, Bremen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24787,14 +24659,14 @@ const shows = [
     "date": "1982 06 10",
     "venue": "Grugahalle, Essen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24825,14 +24697,14 @@ const shows = [
     "date": "1982 06 11",
     "venue": "Alte Oper, Frankfurt, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -24862,14 +24734,14 @@ const shows = [
     "date": "1982 06 11",
     "venue": "Alte Oper, Frankfurt, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -24900,14 +24772,14 @@ const shows = [
     "date": "1982 06 13",
     "venue": "Feste Marienberg, Würzburg, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24940,14 +24812,14 @@ const shows = [
     "date": "1982 06 15",
     "venue": "Centre Sportif, Differdange, Luxembourg",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -24979,14 +24851,14 @@ const shows = [
     "date": "1982 06 18",
     "venue": "Hammersmith Odeon, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -25015,14 +24887,14 @@ const shows = [
     "date": "1982 06 19",
     "venue": "Hammersmith Odeon, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -25053,14 +24925,14 @@ const shows = [
     "date": "1982 06 19",
     "venue": "Hammersmith Odeon, London, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -25097,14 +24969,14 @@ const shows = [
     "date": "1982 06 22",
     "venue": "Le Parc des Expositions, Metz, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -25137,14 +25009,14 @@ const shows = [
     "date": "1982 06 23",
     "venue": "Sporthalle, Böblingen, West Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -25178,14 +25050,14 @@ const shows = [
     "date": "1982 06 26",
     "venue": "Olympiahalle, München, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -25221,14 +25093,14 @@ const shows = [
     "date": "1982 06 28",
     "venue": "Stadthalle, Wien, Austria",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -25261,14 +25133,14 @@ const shows = [
     "date": "1982 06 29",
     "venue": "Sporthalle, Linz, Austria",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -25305,14 +25177,14 @@ const shows = [
     "date": "1982 06 30",
     "venue": "Patinoire des Vernets, Genève, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": []
@@ -25321,14 +25193,14 @@ const shows = [
     "date": "1982 07 01",
     "venue": "Patinoire des Vernets, Genève, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -25348,14 +25220,14 @@ const shows = [
     "date": "1982 07 02",
     "venue": "Stadio Comunale, Torino, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -25388,14 +25260,14 @@ const shows = [
     "date": "1982 07 03",
     "venue": "Stadio Comunale, Bolzano, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -25428,14 +25300,14 @@ const shows = [
     "date": "1982 07 04",
     "venue": "Quartiere Fieristico, Bologna, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -25469,14 +25341,14 @@ const shows = [
     "date": "1982 07 04",
     "venue": "Quartiere Fieristico, Bologna, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "show",
     "setlist": [
@@ -25510,14 +25382,14 @@ const shows = [
     "date": "1982 07 05",
     "venue": "Stadio Marassi, Genova, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -25553,14 +25425,14 @@ const shows = [
     "date": "1982 07 07",
     "venue": "Parco Redecesio, Milano, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -25595,14 +25467,14 @@ const shows = [
     "date": "1982 07 07",
     "venue": "Parco Redecesio, Milano, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "show",
     "setlist": [
@@ -25637,14 +25509,14 @@ const shows = [
     "date": "1982 07 08",
     "venue": "Stadio Comunale, Pistoia, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -25680,14 +25552,14 @@ const shows = [
     "date": "1982 07 09",
     "venue": "Ex Mattatoio Di Testaccio, Roma, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -25721,14 +25593,14 @@ const shows = [
     "date": "1982 07 09",
     "venue": "Ex Mattatoio Di Testaccio, Roma, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "show",
     "setlist": [
@@ -25762,14 +25634,14 @@ const shows = [
     "date": "1982 07 12",
     "venue": "Stadio San Paolo, Napoli, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -25803,14 +25675,14 @@ const shows = [
     "date": "1982 07 12",
     "venue": "Stadio San Paolo, Napoli, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "show",
     "setlist": [
@@ -25844,14 +25716,14 @@ const shows = [
     "date": "1982 07 14",
     "venue": "Stadio Comunale La Favorita, Palermo, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Steve Vai",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Ed Mann",
       "Tommy Mars",
-      "Bobby Martin."
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -25875,14 +25747,14 @@ const shows = [
     "date": "1984 07 17",
     "venue": "Palace Theater, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "",
     "setlist": [
@@ -25914,14 +25786,14 @@ const shows = [
     "date": "1984 07 18",
     "venue": "Palace Theater, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "",
     "setlist": [
@@ -25948,14 +25820,14 @@ const shows = [
     "date": "1984 07 19",
     "venue": "Palace Theater, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "",
     "setlist": [
@@ -25989,14 +25861,14 @@ const shows = [
     "date": "1984 07 20",
     "venue": "Palace Theater, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "",
     "setlist": [
@@ -26027,14 +25899,14 @@ const shows = [
     "date": "1984 07 21",
     "venue": "Palace Theater, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "",
     "setlist": [
@@ -26065,14 +25937,14 @@ const shows = [
     "date": "1984 07 22",
     "venue": "Palace Theater, Los Angeles, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "",
     "setlist": [
@@ -26105,14 +25977,14 @@ const shows = [
     "date": "1984 07 24",
     "venue": "Open Air Amphitheater, State University, San Diego, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "",
     "setlist": [
@@ -26146,14 +26018,14 @@ const shows = [
     "date": "1984 07 25",
     "venue": "Civic Auditorium, Santa Cruz, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "",
     "setlist": [
@@ -26186,14 +26058,14 @@ const shows = [
     "date": "1984 07 27",
     "venue": "Greek Theater, Berkeley, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -26224,14 +26096,14 @@ const shows = [
     "date": "1984 07 27",
     "venue": "Greek Theater, Berkeley, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "show",
     "setlist": [
@@ -26262,14 +26134,14 @@ const shows = [
     "date": "1984 07 29",
     "venue": "County Bowl, Santa Barbara, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "",
     "setlist": [
@@ -26302,14 +26174,14 @@ const shows = [
     "date": "1984 07 31",
     "venue":"Celebrity Theater, Phoenix, AZ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "early show",
     "setlist": [
@@ -26342,14 +26214,14 @@ const shows = [
     "date": "1984 07 31",
     "venue": "Celebrity Theater, Phoenix, AZ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "late show",
     "setlist": [
@@ -26380,14 +26252,14 @@ const shows = [
     "date": "1984 08 01",
     "venue": "Paolo Soleri Amphitheatre, Santa Fe, NM",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
       "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Napoleon Murphy Brock"
     ],
     "slot": "",
     "setlist": [
@@ -26418,14 +26290,13 @@ const shows = [
     "date": "1984 08 02",
     "venue": "Turn Of The Century, Denver, CO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -26455,14 +26326,13 @@ const shows = [
     "date": "1984 08 02",
     "venue": "Turn Of The Century, Denver, CO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -26491,14 +26361,13 @@ const shows = [
     "date": "1984 08 04",
     "venue": "Turn Of The Century, Denver, CO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -26528,14 +26397,13 @@ const shows = [
     "date": "1984 08 04",
     "venue": "Turn Of The Century, Denver, CO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -26564,14 +26432,13 @@ const shows = [
     "date": "1984 08 07",
     "venue": "Civic Center, Des Moines, IA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -26603,14 +26470,13 @@ const shows = [
     "date": "1984 08 08",
     "venue": "Northrop Auditorium, Minneapolis, MN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -26640,14 +26506,13 @@ const shows = [
     "date": "1984 08 10",
     "venue": "State Fairgrounds, West Allis (a.k.a. Milwaukee), WI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -26677,14 +26542,13 @@ const shows = [
     "date": "1984 08 10",
     "venue": "State Fairgrounds, West Allis (a.k.a. Milwaukee), WI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "show",
     "setlist": [
@@ -26714,14 +26578,13 @@ const shows = [
     "date": "1984 08 11",
     "venue": "Oscar Mayer Theatre, Madison, WI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -26752,14 +26615,13 @@ const shows = [
     "date": "1984 08 11",
     "venue": "Oscar Mayer Theatre, Madison, WI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "show",
     "setlist": [
@@ -26790,14 +26652,13 @@ const shows = [
     "date": "1984 08 12",
     "venue": "Blossom Music Center, Cuyahoga Falls, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -26826,14 +26687,13 @@ const shows = [
     "date": "1984 08 13",
     "venue": "Garden State Arts Center, Holmdel, NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -26861,14 +26721,13 @@ const shows = [
     "date": "1984 08 15",
     "venue": "Canadian National Exhibition Grandstand, Toronto, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -26898,14 +26757,13 @@ const shows = [
     "date": "1984 08 16",
     "venue": "Jones Beach Theater, Wantagh, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -26934,14 +26792,13 @@ const shows = [
     "date": "1984 08 18",
     "venue": "Pavilion, University of Illinois, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -26971,14 +26828,13 @@ const shows = [
     "date": "1984 08 22",
     "venue": "Vogue Theater, Indianapolis, IN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -27008,14 +26864,13 @@ const shows = [
     "date": "1984 08 22",
     "venue": "Vogue Theater, Indianapolis, IN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -27047,14 +26902,13 @@ const shows = [
     "date": "1984 08 23",
     "venue": "Meadowbrook, Rochester, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27085,14 +26939,13 @@ const shows = [
     "date": "1984 08 25",
     "venue": "The Pier, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -27130,14 +26983,13 @@ const shows = [
     "date": "1984 08 25",
     "venue": "The Pier, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "show",
     "setlist": [
@@ -27175,14 +27027,13 @@ const shows = [
     "date": "1984 08 26",
     "venue": "The Pier, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -27217,14 +27068,13 @@ const shows = [
     "date": "1984 08 26",
     "venue": "The Pier, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "show",
     "setlist": [
@@ -27259,14 +27109,13 @@ const shows = [
     "date": "1984 08 27",
     "venue": "State Fairgounds, Syracuse, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -27297,14 +27146,13 @@ const shows = [
     "date": "1984 08 27",
     "venue": "State Fairgounds, Syracuse, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "show",
     "setlist": [
@@ -27335,14 +27183,13 @@ const shows = [
     "date": "1984 08 29",
     "venue": "Mid Hudson Civic Center, Poughkeepsie, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27373,14 +27220,13 @@ const shows = [
     "date": "1984 08 30",
     "venue": "Merriweather Post Pavilion, Columbia, MD",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27410,14 +27256,13 @@ const shows = [
     "date": "1984 08 31",
     "venue": "Winter Island, Salem, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27452,14 +27297,13 @@ const shows = [
     "date": "1984 09 01",
     "venue": "Saratoga Performing Arts Centre, Saratoga, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27494,14 +27338,13 @@ const shows = [
     "date": "1984 09 07",
     "venue": "Vorst Nationaal, Bruxelles, Belgium",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27532,14 +27375,13 @@ const shows = [
     "date": "1984 09 08",
     "venue": "Motorcross Stadion am Morgenbruch, Ahlen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27568,14 +27410,13 @@ const shows = [
     "date": "1984 09 09",
     "venue": "Loreley-Freilichtbühne, St Goarshausen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27605,14 +27446,13 @@ const shows = [
     "date": "1984 09 11",
     "venue": "Eissporthalle, Berlin, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27643,14 +27483,13 @@ const shows = [
     "date": "1984 09 13",
     "venue": "Drammenshallen, Drammen, Norway",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27680,14 +27519,13 @@ const shows = [
     "date": "1984 09 14",
     "venue": "Johanneshovs Isstadion, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27717,14 +27555,13 @@ const shows = [
     "date": "1984 09 16",
     "venue": "The Ahoy, Rotterdam, Netherlands",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27755,14 +27592,13 @@ const shows = [
     "date": "1984 09 17",
     "venue": "Palais Omnisports de Bercy, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27794,14 +27630,13 @@ const shows = [
     "date": "1984 09 19",
     "venue": "Palacio Deportes Montjuich, Barcelona, Spain",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27830,14 +27665,13 @@ const shows = [
     "date": "1984 09 20",
     "venue": "Polideportivo de Anoeta, San Sebastian, Spain",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27873,14 +27707,13 @@ const shows = [
     "date": "1984 09 21",
     "venue": "Palais des Sports, Toulouse, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27911,14 +27744,13 @@ const shows = [
     "date": "1984 09 22",
     "venue": "Palais de la Beaujoire, Nantes, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -27950,14 +27782,13 @@ const shows = [
     "date": "1984 09 24",
     "venue": "Hammersmith Odeon, London, England",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -27987,14 +27818,13 @@ const shows = [
     "date": "1984 09 24",
     "venue": "Hammersmith Odeon, London, England",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -28026,14 +27856,13 @@ const shows = [
     "date": "1984 09 25",
     "venue": "Hammersmith Odeon, London, England",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28065,14 +27894,13 @@ const shows = [
     "date": "1984 09 28",
     "venue": "Philipshalle, Düsseldorf, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28103,14 +27931,13 @@ const shows = [
     "date": "1984 09 30",
     "venue": "Espace Tony Garnier, Lyons, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28140,14 +27967,13 @@ const shows = [
     "date": "1984 10 02",
     "venue": "Sporthalle, Böblingen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -28180,14 +28006,13 @@ const shows = [
     "date": "1984 10 02",
     "venue": "Sporthalle, Böblingen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "show",
     "setlist": [
@@ -28220,14 +28045,13 @@ const shows = [
     "date": "1984 10 03",
     "venue": "Circus Krone, München, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -28256,14 +28080,13 @@ const shows = [
     "date": "1984 10 03",
     "venue": "Circus Krone, München, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -28295,14 +28118,13 @@ const shows = [
     "date": "1984 10 04",
     "venue": "Stadthalle, Wien, Austria",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28334,14 +28156,13 @@ const shows = [
     "date": "1984 10 06",
     "venue": "Le Stadium, Marseilles, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28371,14 +28192,13 @@ const shows = [
     "date": "1984 10 07",
     "venue": "Theatre de Verdure, Nice, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -28412,14 +28232,13 @@ const shows = [
     "date": "1984 10 07",
     "venue": "Theatre de Verdure, Nice, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "show",
     "setlist": [
@@ -28453,14 +28272,13 @@ const shows = [
     "date": "1984 10 08",
     "venue": "Palasport, San Siro, Milano, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28492,14 +28310,13 @@ const shows = [
     "date": "1984 10 10",
     "venue": "Teatro Tenda, Bologna, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28530,14 +28347,13 @@ const shows = [
     "date": "1984 10 12",
     "venue": "Bussoladomani, Viareggio, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28548,14 +28364,13 @@ const shows = [
     "date": "1984 10 13",
     "venue": "Palasport San Lazzarro, Padova, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28588,14 +28403,13 @@ const shows = [
     "date": "1984 10 14",
     "venue": "Teatro Tenda Pianeta 7UP, Roma, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28628,14 +28442,13 @@ const shows = [
     "date": "1984 10 15",
     "venue": "Teatro Tenda Pianeta 7UP, Roma, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28667,14 +28480,13 @@ const shows = [
     "date": "1984 10 16",
     "venue": "Teatro Tenda Pianeta 7UP, Roma, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28705,14 +28517,13 @@ const shows = [
     "date": "1984 10 25",
     "venue": "E.M Loews Theater, Worcester, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -28743,14 +28554,13 @@ const shows = [
     "date": "1984 10 25",
     "venue": "E.M Loews Theater, Worcester, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -28782,14 +28592,13 @@ const shows = [
     "date": "1984 10 26",
     "venue": "Civic Center, Providence, RI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28823,14 +28632,13 @@ const shows = [
     "date": "1984 10 27",
     "venue": "Coliseum, New Haven, CT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -28861,14 +28669,13 @@ const shows = [
     "date": "1984 10 28",
     "venue": "Fine Arts Center Concert Hall, University Of Massachusetts, Amherst, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -28897,14 +28704,13 @@ const shows = [
     "date": "1984 10 31",
     "venue": "Felt Forum, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -28935,14 +28741,13 @@ const shows = [
     "date": "1984 10 31",
     "venue": "Felt Forum, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -28975,14 +28780,13 @@ const shows = [
     "date": "1984 11 02",
     "venue": "Forum, Montreal, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29017,14 +28821,13 @@ const shows = [
     "date": "1984 11 03",
     "venue": "Gym, SUNY, Stony Brook, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -29055,14 +28858,13 @@ const shows = [
     "date": "1984 11 03",
     "venue": "Gym, SUNY, Stony Brook, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -29094,14 +28896,13 @@ const shows = [
     "date": "1984 11 08",
     "venue": "Le Colisee, Quebec, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29125,14 +28926,13 @@ const shows = [
     "date": "1984 11 09",
     "venue": "Orpheum Theater, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29163,14 +28963,13 @@ const shows = [
     "date": "1984 11 10",
     "venue": "Tower Theatre, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -29200,14 +28999,13 @@ const shows = [
     "date": "1984 11 10",
     "venue": "Tower Theatre, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -29238,14 +29036,13 @@ const shows = [
     "date": "1984 11 11",
     "venue": "Chrysler Hall, Scope Plaza, Norfolk, VA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29272,14 +29069,13 @@ const shows = [
     "date": "1984 11 13",
     "venue": "DAR Constitution Hall, Washington, DC",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29308,14 +29104,13 @@ const shows = [
     "date": "1984 11 14",
     "venue": "Front Row Theatre, Cleveland, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29347,14 +29142,13 @@ const shows = [
     "date": "1984 11 16",
     "venue": "Alumni Arena, SUNY, Buffalo, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29385,14 +29179,13 @@ const shows = [
     "date": "1984 11 17",
     "venue": "Syria Mosque, Pittsburgh, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29425,14 +29218,13 @@ const shows = [
     "date": "1984 11 18",
     "venue": "Newport Music Hall, Columbus, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29462,14 +29254,13 @@ const shows = [
     "date": "1984 11 21",
     "venue": "Royal Oak Music Hall, Royal Oak, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -29500,14 +29291,13 @@ const shows = [
     "date": "1984 11 21",
     "venue": "Royal Oak Music Hall, Royal Oak, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -29538,14 +29328,13 @@ const shows = [
     "date": "1984 11 23",
     "venue": "Bismarck Theatre, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -29576,14 +29365,13 @@ const shows = [
     "date": "1984 11 23",
     "venue": "Bismarck Theatre, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -29615,14 +29403,13 @@ const shows = [
     "date": "1984 11 24",
     "venue": "Kiel Opera House, St. Louis, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29653,14 +29440,13 @@ const shows = [
     "date": "1984 11 25",
     "venue": "Civic Center, Atlanta, GA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29692,14 +29478,13 @@ const shows = [
     "date": "1984 11 30",
     "venue": "Sunrise Musical Theater, Sunrise (a.k.a. Ft. Lauderdale), FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -29731,14 +29516,13 @@ const shows = [
     "date": "1984 11 30",
     "venue": "Sunrise Musical Theater, Sunrise (a.k.a. Ft. Lauderdale), FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -29768,14 +29552,13 @@ const shows = [
     "date": "1984 12 01",
     "venue": "Bayfront Center Arena, St. Petersburg, FL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29808,14 +29591,13 @@ const shows = [
     "date": "1984 12 03",
     "venue": "McAlister Auditorium, Tulane University, New Orleans, LA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -29845,14 +29627,13 @@ const shows = [
     "date": "1984 12 03",
     "venue": "McAlister Auditorium, Tulane University, New Orleans, LA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -29881,14 +29662,13 @@ const shows = [
     "date": "1984 12 04",
     "venue": "Orpheum Theater, Memphis, TN",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29922,14 +29702,13 @@ const shows = [
     "date": "1984 12 06",
     "venue": "Civic Center Music Hall, Oklahoma City, OK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -29962,14 +29741,13 @@ const shows = [
     "date": "1984 12 08",
     "venue": "Uptown Theatre, Kansas City, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -29998,14 +29776,13 @@ const shows = [
     "date": "1984 12 08",
     "venue": "Uptown Theatre, Kansas City, MO",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -30039,14 +29816,13 @@ const shows = [
     "date": "1984 12 10",
     "venue": "Majestic Performing Arts Center, San Antonio, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -30078,14 +29854,13 @@ const shows = [
     "date": "1984 12 11",
     "venue": "Palmer Auditorium, Austin, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -30116,14 +29891,13 @@ const shows = [
     "date": "1984 12 12",
     "venue": "Sam Houston Coliseum, Houston, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -30154,14 +29928,13 @@ const shows = [
     "date": "1984 12 13",
     "venue": "State Fair Park Coliseum, Dallas, TX",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -30194,14 +29967,13 @@ const shows = [
     "date": "1984 12 17",
     "venue": "Paramount Theater, Seattle, WA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -30231,14 +30003,13 @@ const shows = [
     "date": "1984 12 17",
     "venue": "Paramount Theater, Seattle, WA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -30276,14 +30047,13 @@ const shows = [
     "date": "1984 12 18",
     "venue": "Queen Elizabeth Theatre, Vancouver, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "early show",
     "setlist": [
@@ -30314,14 +30084,13 @@ const shows = [
     "date": "1984 12 18",
     "venue": "Queen Elizabeth Theatre, Vancouver, Canada",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "late show",
     "setlist": [
@@ -30354,14 +30123,13 @@ const shows = [
     "date": "1984 12 20",
     "venue": "Arlene Schnitzer Concert Hall, Portland, OR",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -30398,14 +30166,13 @@ const shows = [
     "date": "1984 12 21",
     "venue": "Circle Star Theatre, San Carlos, CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -30434,14 +30201,13 @@ const shows = [
     "date": "1984 12 23",
     "venue": "Universal Amphitheater, Universal City (a.k.a. Los Angeles), CA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Ray White",
       "Scott Thunes",
       "Chad Wackerman",
       "Allan Zavod",
-      "Bobby Martin",
-      "Napoleon Murphy Brock (July 17 - August 1)"
+      "Bobby Martin"
     ],
     "slot": "",
     "setlist": [
@@ -30471,7 +30237,7 @@ const shows = [
     "date": "1988 02 02",
     "venue": "Palace Theater, Albany, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -30482,7 +30248,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -30511,7 +30277,7 @@ const shows = [
     "date": "1988 02 04",
     "venue": "Beacon Theatre, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -30522,7 +30288,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -30553,7 +30319,7 @@ const shows = [
     "date": "1988 02 05",
     "venue": "Beacon Theatre, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -30564,7 +30330,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -30594,7 +30360,7 @@ const shows = [
     "date": "1988 02 06",
     "venue": "Beacon Theatre, New York, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -30605,7 +30371,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -30637,7 +30403,7 @@ const shows = [
     "date": "1988 02 08",
     "venue": "Warner Theatre, Washington, DC",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -30648,7 +30414,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -30682,7 +30448,7 @@ const shows = [
     "date": "1988 02 09",
     "venue": "Warner Theatre, Washington, DC",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -30693,7 +30459,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -30728,7 +30494,7 @@ const shows = [
     "date": "1988 02 10",
     "venue": "Warner Theatre, Washington, DC",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -30739,7 +30505,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -30777,7 +30543,7 @@ const shows = [
     "date": "1988 02 12",
     "venue": "Tower Theatre, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -30788,7 +30554,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "soundcheck / rehearsal",
     "setlist": [
@@ -30820,7 +30586,7 @@ const shows = [
     "date": "1988 02 12",
     "venue": "Tower Theatre, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -30831,7 +30597,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "show",
     "setlist": [
@@ -30863,7 +30629,7 @@ const shows = [
     "date": "1988 02 13",
     "venue": "Tower Theatre, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -30874,7 +30640,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -30911,7 +30677,7 @@ const shows = [
     "date": "1988 02 14",
     "venue": "Tower Theatre, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -30922,7 +30688,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "soundcheck / rehearsal",
     "setlist": [
@@ -30955,7 +30721,7 @@ const shows = [
     "date": "1988 02 14",
     "venue": "Tower Theatre, Upper Darby, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -30966,7 +30732,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "show",
     "setlist": [
@@ -30999,7 +30765,7 @@ const shows = [
     "date": "1988 02 16",
     "venue": "Bushnell Memorial Hall, Hartford, CT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31010,7 +30776,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31047,7 +30813,7 @@ const shows = [
     "date": "1988 02 17",
     "venue": "Bushnell Memorial Hall, Hartford, CT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31058,7 +30824,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31089,7 +30855,7 @@ const shows = [
     "date": "1988 02 19",
     "venue": "Orpheum Theater, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31100,7 +30866,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -31132,7 +30898,7 @@ const shows = [
     "date": "1988 02 19",
     "venue": "Orpheum Theater, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31143,7 +30909,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "show",
     "setlist": [
@@ -31175,7 +30941,7 @@ const shows = [
     "date": "1988 02 20",
     "venue": "Orpheum Theater, Boston, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31186,7 +30952,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31219,7 +30985,7 @@ const shows = [
     "date": "1988 02 23",
     "venue": "Mid Hudson Civic Center, Poughkeepsie, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31230,7 +30996,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31262,7 +31028,7 @@ const shows = [
     "date": "1988 02 25",
     "venue": "Syria Mosque, Pittsburgh, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31273,7 +31039,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31304,7 +31070,7 @@ const shows = [
     "date": "1988 02 26",
     "venue": "Royal Oak Music Theatre, Royal Oak, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31315,7 +31081,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31347,7 +31113,7 @@ const shows = [
     "date": "1988 02 27",
     "venue": "Royal Oak Music Theatre, Royal Oak, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31358,7 +31124,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "soundcheck / rehearsals",
     "setlist": [
@@ -31392,7 +31158,7 @@ const shows = [
     "date": "1988 02 27",
     "venue": "Royal Oak Music Theatre, Royal Oak, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31403,7 +31169,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "show",
     "setlist": [
@@ -31437,7 +31203,7 @@ const shows = [
     "date": "1988 02 28",
     "venue": "Royal Oak Music Theatre, Royal Oak, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31448,7 +31214,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31478,7 +31244,7 @@ const shows = [
     "date": "1988 03 01",
     "venue": "Frauenthal Theatre, Muskegon, MI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31489,7 +31255,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31520,7 +31286,7 @@ const shows = [
     "date": "1988 03 03",
     "venue": "Auditorium Theatre, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31531,7 +31297,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31562,7 +31328,7 @@ const shows = [
     "date": "1988 03 04",
     "venue": "Auditorium Theatre, Chicago, IL",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31573,7 +31339,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31602,7 +31368,7 @@ const shows = [
     "date": "1988 03 05",
     "venue": "Music Hall, Cleveland, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31613,7 +31379,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31643,7 +31409,7 @@ const shows = [
     "date": "1988 03 06",
     "venue": "Veterans Memorial Auditorium, Columbus, OH",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31654,7 +31420,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31684,7 +31450,7 @@ const shows = [
     "date": "1988 03 08",
     "venue": "Syria Mosque, Pittsburgh, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31695,7 +31461,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "soundcheck / rehearsals",
     "setlist": [
@@ -31724,7 +31490,7 @@ const shows = [
     "date": "1988 03 08",
     "venue": "Syria Mosque, Pittsburgh, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31735,7 +31501,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "show",
     "setlist": [
@@ -31764,7 +31530,7 @@ const shows = [
     "date": "1988 03 09",
     "venue": "Shea's Theater, Buffalo, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31775,7 +31541,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31803,7 +31569,7 @@ const shows = [
     "date": "1988 03 11",
     "venue": "War Memorial Auditorium, Rochester, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31814,7 +31580,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -31846,7 +31612,7 @@ const shows = [
     "date": "1988 03 12",
     "venue": "Memorial Auditorium, Burlington, VT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31857,7 +31623,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "soundcheck / rehearsals",
     "setlist": [
@@ -31890,7 +31656,7 @@ const shows = [
     "date": "1988 03 12",
     "venue": "Memorial Auditorium, Burlington, VT",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31901,7 +31667,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "show",
     "setlist": [
@@ -31934,7 +31700,7 @@ const shows = [
     "date": "1988 03 13",
     "venue": "Civic Center, Springfield, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31945,7 +31711,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "soundcheck / rehearsals",
     "setlist": [
@@ -31976,7 +31742,7 @@ const shows = [
     "date": "1988 03 13",
     "venue": "Civic Center, Springfield, MA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -31987,7 +31753,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "show",
     "setlist": [
@@ -32018,7 +31784,7 @@ const shows = [
     "date": "1988 03 15",
     "venue": "Cumberland County Civic Center, Portland, ME",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32029,7 +31795,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "soundcheck / rehearsals",
     "setlist": [
@@ -32060,7 +31826,7 @@ const shows = [
     "date": "1988 03 15",
     "venue": "Cumberland County Civic Center, Portland, ME",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32071,7 +31837,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "show",
     "setlist": [
@@ -32102,7 +31868,7 @@ const shows = [
     "date": "1988 03 16",
     "venue": "Civic Center, Providence, RI",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32113,7 +31879,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32144,7 +31910,7 @@ const shows = [
     "date": "1988 03 17",
     "venue": "Broome County Veterans Memorial Arena, Binghamton, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32155,7 +31921,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32188,7 +31954,7 @@ const shows = [
     "date": "1988 03 19",
     "venue": "Memorial Hall, Muhlenburg College, Allentown, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32199,7 +31965,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "soundcheck / rehearsals",
     "setlist": [
@@ -32232,7 +31998,7 @@ const shows = [
     "date": "1988 03 19",
     "venue": "Memorial Hall, Muhlenburg College, Allentown, PA",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32243,7 +32009,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "show",
     "setlist": [
@@ -32276,7 +32042,7 @@ const shows = [
     "date": "1988 03 20",
     "venue": "Rothman Center, Fairleigh Dickinson University, Hackensack (a.k.a. Teaneck), NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32287,7 +32053,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "soundcheck / rehearsals",
     "setlist": [
@@ -32318,7 +32084,7 @@ const shows = [
     "date": "1988 03 20",
     "venue": "Rothman Center, Fairleigh Dickinson University, Hackensack (a.k.a. Teaneck), NJ",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32329,7 +32095,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "show",
     "setlist": [
@@ -32360,7 +32126,7 @@ const shows = [
     "date": "1988 03 21",
     "venue": "Landmark Theater, Syracuse, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32371,7 +32137,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32401,7 +32167,7 @@ const shows = [
     "date": "1988 03 23",
     "venue": "Towson Center, Towson, MD",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32412,7 +32178,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "soundcheck / rehearsals",
     "setlist": [
@@ -32445,7 +32211,7 @@ const shows = [
     "date": "1988 03 23",
     "venue": "Towson Center, Towson, MD",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32456,7 +32222,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "show",
     "setlist": [
@@ -32489,7 +32255,7 @@ const shows = [
     "date": "1988 03 25",
     "venue": "Nassau Colisseum, Uniondale, NY",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32500,7 +32266,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32533,7 +32299,7 @@ const shows = [
     "date": "1988 04 09",
     "venue": "Le Stadium, Bourges, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32544,7 +32310,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32572,7 +32338,7 @@ const shows = [
     "date": "1988 04 10",
     "venue": "Sportpaleis, Ghent, Belgium",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32583,7 +32349,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32611,7 +32377,7 @@ const shows = [
     "date": "1988 04 12",
     "venue": "Deutschlandhalle, Berlin, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32622,7 +32388,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32652,7 +32418,7 @@ const shows = [
     "date": "1988 04 13",
     "venue": "Stadthalle, Offenbach, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32663,7 +32429,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32693,7 +32459,7 @@ const shows = [
     "date": "1988 04 14",
     "venue": "Sporthalle, Köln, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32704,7 +32470,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32733,7 +32499,7 @@ const shows = [
     "date": "1988 04 16",
     "venue": "Brighton Center, Brighton, UK",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32744,7 +32510,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32776,7 +32542,7 @@ const shows = [
     "date": "1988 04 18",
     "venue": "Wembley Arena, London, England",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32787,7 +32553,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32817,7 +32583,7 @@ const shows = [
     "date": "1988 04 19",
     "venue": "Wembley Arena, London, England",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32828,7 +32594,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32860,7 +32626,7 @@ const shows = [
     "date": "1988 04 20",
     "venue": "National Exhibition Center, Birmingham, England",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32871,7 +32637,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32903,7 +32669,7 @@ const shows = [
     "date": "1988 04 22",
     "venue": "Carl-Diem-Halle, Würzburg, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32914,7 +32680,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32950,7 +32716,7 @@ const shows = [
     "date": "1988 04 24",
     "venue": "Stadthalle, Bremen, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -32961,7 +32727,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -32993,7 +32759,7 @@ const shows = [
     "date": "1988 04 25",
     "venue": "Falkoner Teatret, København, Denmark",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33004,7 +32770,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33035,7 +32801,7 @@ const shows = [
     "date": "1988 04 26",
     "venue": "Olympen, Lund, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33046,7 +32812,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33077,7 +32843,7 @@ const shows = [
     "date": "1988 04 27",
     "venue": "Skedsmohallen, Oslo, Norway",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33088,7 +32854,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33119,7 +32885,7 @@ const shows = [
     "date": "1988 04 29",
     "venue": "Jäähalli, Helsinki, Finland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33130,7 +32896,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33163,7 +32929,7 @@ const shows = [
     "date": "1988 05 01",
     "venue": "Johanneshovs Isstadion, Stockholm, Sweden",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33174,7 +32940,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33207,7 +32973,7 @@ const shows = [
     "date": "1988 05 03",
     "venue": "Sportpaleis Ahoy, Rotterdam, Holland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33218,7 +32984,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33248,7 +33014,7 @@ const shows = [
     "date": "1988 05 04",
     "venue": "Sportpaleis Ahoy, Rotterdam, Holland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33259,7 +33025,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33291,7 +33057,7 @@ const shows = [
     "date": "1988 05 05",
     "venue": "Westfalenhalle, Dortmund, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33302,7 +33068,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33334,7 +33100,7 @@ const shows = [
     "date": "1988 05 06",
     "venue": "Congress Centrum Hamburg, Hamburg, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33345,7 +33111,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33375,7 +33141,7 @@ const shows = [
     "date": "1988 05 08",
     "venue": "Stadthalle, Wien, Austria",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33386,7 +33152,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33419,7 +33185,7 @@ const shows = [
     "date": "1988 05 09",
     "venue": "Rudi-Sedlmayer-Halle, München, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33430,7 +33196,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33465,7 +33231,7 @@ const shows = [
     "date": "1988 05 11",
     "venue": "Hallenstadion, Zürich, Switzerland",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33476,7 +33242,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33506,7 +33272,7 @@ const shows = [
     "date": "1988 05 13",
     "venue": "Pabellon de los Deportes de La Casilla, Bilbao, Spain",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33517,7 +33283,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": []
@@ -33526,7 +33292,7 @@ const shows = [
     "date": "1988 05 14",
     "venue": "Auditorio de la Casa de Campo, Madrid, Spain",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33537,7 +33303,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33568,7 +33334,7 @@ const shows = [
     "date": "1988 05 15",
     "venue": "Prado de San Sebastian, Sevilla, Spain",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33579,7 +33345,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33604,7 +33370,7 @@ const shows = [
     "date": "1988 05 17",
     "venue": "Palacio de Deportes, Barcelona, Spain",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33615,7 +33381,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33646,7 +33412,7 @@ const shows = [
     "date": "1988 05 18",
     "venue": "Le Zenith, Montpellier, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33657,7 +33423,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33688,7 +33454,7 @@ const shows = [
     "date": "1988 05 19",
     "venue": "Le Summum, Grenoble, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33699,7 +33465,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33730,7 +33496,7 @@ const shows = [
     "date": "1988 05 20",
     "venue": "Le Zenith, Paris, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33741,7 +33507,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33773,7 +33539,7 @@ const shows = [
     "date": "1988 05 23",
     "venue": "Hall Tivoli, Strasbourg, France",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33784,7 +33550,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": []
@@ -33793,7 +33559,7 @@ const shows = [
     "date": "1988 05 24",
     "venue": "Beethovensaal, Liederhalle, Stuttgart, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33804,7 +33570,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33841,7 +33607,7 @@ const shows = [
     "date": "1988 05 25",
     "venue": "Rosengarten, Mozartsaal, Mannheim, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33852,7 +33618,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -33882,7 +33648,7 @@ const shows = [
     "date": "1988 05 25",
     "venue": "Rosengarten, Mozartsaal, Mannheim, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33893,7 +33659,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "show",
     "setlist": [
@@ -33923,7 +33689,7 @@ const shows = [
     "date": "1988 05 26",
     "venue": "Stadthalle, Fürth, Germany",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33934,7 +33700,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -33969,7 +33735,7 @@ const shows = [
     "date": "1988 05 28",
     "venue": "Sporthalle, Linz, Austria",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -33980,7 +33746,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -34012,7 +33778,7 @@ const shows = [
     "date": "1988 05 29",
     "venue": "Eishalle Liebenau, Graz, Austria",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -34023,7 +33789,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -34054,7 +33820,7 @@ const shows = [
     "date": "1988 05 30",
     "venue": "Palasport Primo Carnera, Udine, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -34065,7 +33831,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -34094,7 +33860,7 @@ const shows = [
     "date": "1988 06 01",
     "venue": "Palasport, Padova, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -34105,7 +33871,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -34135,7 +33901,7 @@ const shows = [
     "date": "1988 06 02",
     "venue": "Palatrussardi, Milano, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -34146,7 +33912,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -34175,7 +33941,7 @@ const shows = [
     "date": "1988 06 03",
     "venue": "Palasport, Torino, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -34186,7 +33952,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -34218,7 +33984,7 @@ const shows = [
     "date": "1988 06 05",
     "venue": "Palasport, Modena, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -34229,7 +33995,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -34260,7 +34026,7 @@ const shows = [
     "date": "1988 06 06",
     "venue": "Palasport, Firenze, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -34271,7 +34037,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -34301,7 +34067,7 @@ const shows = [
     "date": "1988 06 07",
     "venue": "PalaEur, Roma, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -34312,7 +34078,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "soundcheck",
     "setlist": [
@@ -34345,7 +34111,7 @@ const shows = [
     "date": "1988 06 07",
     "venue": "PalaEur, Roma, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -34356,7 +34122,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "show",
     "setlist": [
@@ -34389,7 +34155,7 @@ const shows = [
     "date": "1988 06 09",
     "venue": "Palasport, Genova, Italy",
     "lineup": [
-      "FZ",
+      "Frank Zappa",
       "Ike Willis",
       "Mike Keneally",
       "Scott Thunes",
@@ -34400,7 +34166,7 @@ const shows = [
       "Walt Fowler",
       "Paul Carman",
       "Albert Wing",
-      "Kurt McGettrick."
+      "Kurt McGettrick"
     ],
     "slot": "",
     "setlist": [
@@ -34418,10 +34184,7 @@ const shows = [
       "Rhymin' Man",
       "Sinister Footwear",
       "City Of Tiny Lights",
-      "The Torture Never Stops Medley [incl. parts of Lonesome Cowboy Nando",
-      "YCDTOSA6; incl. After Dinner Smoker",
-      "TRF]",
-      "Bolero",
+      "The Torture Never Stops Medley",
       "Whipping Post",
       "I Am The Walrus",
       "The Illinois Enema Bandit"

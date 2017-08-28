@@ -15,17 +15,18 @@ ul {
   padding: 0;
   height: 100vh;
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
   background-color: #D1F9E8
 }
 
 .header {
   padding: .25rem;
-  height: 3rem;
   background-color: #AAEBCF
 }
 
 .main {
-  height: calc( 100vh - 3rem);
+  flex: 1;
   display: flex;
   position: relative
 }
@@ -33,16 +34,17 @@ ul {
 .shows-pane {
   height: 100%;
   width: 20rem;
+  display: flex;
+  flex-direction: column;
 }
 
 .shows-header {
-  height: 3.5rem;
   padding: .1rem;
   background-color: #DD87C8
 }
 
 .shows-wrapper {
-  height: calc(100% - 3.5rem);
+  flex: 1;
   overflow-y: auto;
 }
 
@@ -85,6 +87,20 @@ ul {
 b  white-space: nowrap;
   background-color: #FFF7FD;
 }
+
+.list-li {
+  background-color: #FFEBB8;
+  padding: .25rem;
+}
+
+.list-li:hover {
+  background-color: #FFF3D7;
+}
+
+.list-li:nth-child(even) {
+  background-color: #FFE29C;
+}
+
 
 .show-li:nth-child(even) {
   background-color: #FAD2F0;

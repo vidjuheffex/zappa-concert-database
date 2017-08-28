@@ -33,13 +33,13 @@
           <div class="details-body">
             <h3>Setlist</h3>
             <ul class="setlist">
-              <li *ngFor="let song of selectedShow.setlist" (click)="onSelectSong(song)" >
+              <li class ="list-li" *ngFor="let song of selectedShow.setlist" (click)="onSelectSong(song)" >
                 {{song}}
               </li>
             </ul>
             <h3>Lineup</h3>
             <ul class="lineup">
-              <li *ngFor="let musician of selectedShow.lineup" (click)="onSelectMusician(musician)" >
+              <li class="list-li" *ngFor="let musician of selectedShow.lineup" (click)="onSelectMusician(musician)" >
                 {{musician}}
               </li>
             </ul>
