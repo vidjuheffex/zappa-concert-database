@@ -28,7 +28,8 @@ ul {
 .main {
   flex: 1;
   display: flex;
-  position: relative
+  position: relative;
+  overflow: hidden;
 }
 
 .shows-pane {
